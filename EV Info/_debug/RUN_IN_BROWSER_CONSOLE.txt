@@ -1,0 +1,31 @@
+RUN THIS IN YOUR BROWSER CONSOLE on https://www.nhtsa.gov/emergency-response-guides
+
+1. Open that page and (if needed) select "All" or scroll so all 636 guides are loaded.
+2. Open DevTools (F12) -> Console tab.
+3. Paste the code below and press Enter.
+4. It will copy a JSON manifest to your clipboard. Save it as EV Info/_nhtsa_erg_manifest.json
+   then run:  .venv-erg/bin/python scripts/download_nhtsa_erg_from_manifest.py
+
+--- CODE (paste below this line) ---
+(function(){
+  var MAKES = ["Ford","Toyota","Tesla","Chevrolet","Nissan","BMW","Hyundai","Kia","Honda","Mercedes","Audi","Volkswagen","Volvo","Rivian","Lexus","Mazda","Subaru","Jeep","GMC","Cadillac","Genesis","Polestar","Scion","Acura","Infiniti","Jaguar","Porsche","Mini","Mitsubishi","NFPA","Lucid","Ram","Buick","Fisker","Land Rover","Fiat","Alfa Romeo"];
+  var entries = [];
+  var seen = {};
+  document.querySelectorAll('a[href*=".pdf"]').forEach(function(a){
+    var href = a.href;
+    if(!href || seen[href]) return;
+    seen[href] = true;
+    var row = a.closest('tr') || a.closest('li') || a.closest('div');
+    var text = (row ? row.innerText : a.innerText || '').trim().slice(0,300);
+    var make = 'nhtsa';
+    for(var i=0;i<MAKES.length;i++){
+      if(text.toLowerCase().indexOf(MAKES[i].toLowerCase())>=0){ make = MAKES[i].toLowerCase(); break; }
+    }
+    entries.push({ make: make, model: text.slice(0,150) || a.innerText || href.split('/').pop(), url: href });
+  });
+  var json = JSON.stringify(entries, null, 2);
+  if(navigator.clipboard && navigator.clipboard.writeText){
+    navigator.clipboard.writeText(json).then(function(){ console.log('Copied '+entries.length+' entries. Save as EV Info/_nhtsa_erg_manifest.json then run the Python script.'); });
+  } else { console.log(json); }
+  console.log('Total PDF links:', entries.length);
+})();

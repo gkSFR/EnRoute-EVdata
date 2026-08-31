@@ -1,0 +1,4177 @@
+[
+  {
+    "make": "acura",
+    "model": "ILX",
+    "url": "https://static.nhtsa.gov/erg/HONDA/EmergencyResponseGuide-Acura-ILX_HEV-2013-2014.pdf"
+  },
+  {
+    "make": "acura",
+    "model": "MDX",
+    "url": "https://static.nhtsa.gov/erg/HONDA/EmergencyResponseGuide-Acura-MDXSportHybrid-2017-2020.pdf"
+  },
+  {
+    "make": "acura",
+    "model": "NSX",
+    "url": "https://static.nhtsa.gov/erg/HONDA/EmergencyResponseGuide-Acura-NSXHybrid-2017-2022.pdf"
+  },
+  {
+    "make": "acura",
+    "model": "RLX",
+    "url": "https://static.nhtsa.gov/erg/HONDA/EmergencyResponseGuide-Acura-RLXSportHybrid-2014-2020.pdf"
+  },
+  {
+    "make": "acura",
+    "model": "ZDX",
+    "url": "https://static.nhtsa.gov/erg/HONDA-MOTOR-CO/EmergencyResponseGuide-Acura-ZDX-2024_BEV_1.pdf"
+  },
+  {
+    "make": "alfa_romeo",
+    "model": "TONALE",
+    "url": "https://static.nhtsa.gov/erg/FCA-US-LLC/EmergencyResponseGuide-FCA-AlfaRomeo-TonalePHEV-2023-2024.pdf"
+  },
+  {
+    "make": "alfa_romeo",
+    "model": "TONALE",
+    "url": "https://static.nhtsa.gov/erg/FCA-US-LLC/RescueSheet-AlfaRomeo-TonalePHEV-2023-2024.pdf"
+  },
+  {
+    "make": "aston_martin",
+    "model": "VALHALLA",
+    "url": "https://static.nhtsa.gov/erg/ASTON-MARTIN-LAGONDA-LIMITED/EmergencyResponseGuide-AstonMartin-Valhalla-2026_PHEV_1.pdf"
+  },
+  {
+    "make": "audi",
+    "model": "A3 SPORTBACK E-TRON",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Audi2025A3phev.pdf"
+  },
+  {
+    "make": "audi",
+    "model": "A3 SPORTBACK E-TRON",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/RescueSheet-Audi-A3e-tronPHEV-2014-2020.pdf"
+  },
+  {
+    "make": "audi",
+    "model": "A6 ETRON",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Audi2025A6.pdf"
+  },
+  {
+    "make": "audi",
+    "model": "A6 ETRON",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/RescueSheet-Audi_A6-etron_2024.pdf"
+  },
+  {
+    "make": "audi",
+    "model": "A7",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Audi2025A7PHEV.pdf"
+  },
+  {
+    "make": "audi",
+    "model": "A7",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/RescueSheet-Audi-A7PHEV-2019.pdf"
+  },
+  {
+    "make": "audi",
+    "model": "A8",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Audi2025A8PHEV.pdf"
+  },
+  {
+    "make": "audi",
+    "model": "A8",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/RescueSheet-Audi-A8PHEV-2019.pdf"
+  },
+  {
+    "make": "audi",
+    "model": "E-TRON",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Audi2025etron.pdf"
+  },
+  {
+    "make": "audi",
+    "model": "E-TRON",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/RescueSheet-Audi-etronSportback-2020.pdf"
+  },
+  {
+    "make": "audi",
+    "model": "E-TRON GT",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Audi2025etronGT.pdf"
+  },
+  {
+    "make": "audi",
+    "model": "E-TRON GT",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/RescueSheet-Audi-etronGT-2020.pdf"
+  },
+  {
+    "make": "audi",
+    "model": "Q4 E-TRON",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Audi2025etronQ4.pdf"
+  },
+  {
+    "make": "audi",
+    "model": "Q4 E-TRON",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/RescueSheet-Audi_Q4_e-tron_SUV_2021_5d_Electric_EN.pdf"
+  },
+  {
+    "make": "audi",
+    "model": "Q5",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Audi2025Q5HEV.pdf"
+  },
+  {
+    "make": "audi",
+    "model": "Q5",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/RescueSheet-Audi-Q5-HEV-2013-2016.pdf"
+  },
+  {
+    "make": "audi",
+    "model": "Q5",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Audi2025Q5PHEV.pdf"
+  },
+  {
+    "make": "audi",
+    "model": "Q5",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/RescueSheet-Audi-Q5PHEV-2019.pdf"
+  },
+  {
+    "make": "audi",
+    "model": "Q6 E-TRON",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Audi2025Q6.pdf"
+  },
+  {
+    "make": "audi",
+    "model": "Q6 E-TRON",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/RescueSheet-Audi_Q6_e-tron_SUV_2024_5d_Electric_EN.pdf"
+  },
+  {
+    "make": "audi",
+    "model": "Q8 SQ8 E-TRON",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Audi2025.pdf"
+  },
+  {
+    "make": "audi",
+    "model": "Q8 SQ8 E-TRON",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/RescueSheet-Audi-Q8-SQ8etron-2023.pdf"
+  },
+  {
+    "make": "audi",
+    "model": "S6 ETRON",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Audi2025S6etron.pdf"
+  },
+  {
+    "make": "audi",
+    "model": "S6 ETRON",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/RescueSheet-Audi_S6-etron_2024.pdf"
+  },
+  {
+    "make": "autocar",
+    "model": "E-ACTT",
+    "url": "https://static.nhtsa.gov/erg/AUTOCAR/EmergencyResponseGuide-Autocar-e-actt-2022.pdf"
+  },
+  {
+    "make": "autocar",
+    "model": "E-ACTT",
+    "url": "https://static.nhtsa.gov/erg/AUTOCAR/EmergencyResponseGuide2025AutocarE-ACTT.pdf"
+  },
+  {
+    "make": "azure",
+    "model": "BALANCE",
+    "url": "https://static.nhtsa.gov/erg/AZURE-DYNAMICS/EmergencyResponseGuide-Azure-Balance-.pdf"
+  },
+  {
+    "make": "azure",
+    "model": "TRANSIT CONNECT VAN EV",
+    "url": "https://static.nhtsa.gov/erg/AZURE-DYNAMICS/EmergencyResponseGuide-Azure-TransitConnectVan.pdf"
+  },
+  {
+    "make": "battle_motors",
+    "model": "RAIDER",
+    "url": "https://static.nhtsa.gov/erg/BATTLE-MOTORS/EmergencyResponseGuide-BattleMotors-Striker,Raider-2022-2026.pdf"
+  },
+  {
+    "make": "battle_motors",
+    "model": "RAIDER",
+    "url": "https://static.nhtsa.gov/erg/BATTLE-MOTORS/RescueSheet-BattleMotors-Striker,Raider-2022-2026.pdf"
+  },
+  {
+    "make": "bentley",
+    "model": "BENTAYGA HYBRID SUV",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Bentayga.pdf"
+  },
+  {
+    "make": "bentley",
+    "model": "BENTAYGA HYBRID SUV",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/RescueSheet-Bentley-Bentayga.pdf"
+  },
+  {
+    "make": "bentley",
+    "model": "CONTINENTAL GT SPEED COUPE",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-ContGT.pdf"
+  },
+  {
+    "make": "bentley",
+    "model": "CONTINENTAL GT SPEED COUPE",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/RescueSheet-Continental_GT_Speed.pdf"
+  },
+  {
+    "make": "bentley",
+    "model": "CONTINENTAL GTC SPEED CONVERTIBLE",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-ContGTconv.pdf"
+  },
+  {
+    "make": "bentley",
+    "model": "CONTINENTAL GTC SPEED CONVERTIBLE",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/RescueSheet-Continental_GTC_Speed_SCB.pdf"
+  },
+  {
+    "make": "bentley",
+    "model": "FLYING SPUR HYBRID SALOON",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-BentleyFlyspr.pdf"
+  },
+  {
+    "make": "bentley",
+    "model": "FLYING SPUR HYBRID SALOON",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/RescueSheet-Bentley-Flying-Spur-Hybrd.pdf"
+  },
+  {
+    "make": "blue_bird",
+    "model": "BBCV VISION ELECTRIC",
+    "url": "https://static.nhtsa.gov/erg/BLUE-BIRD/EmergencyResponseGuide-BlueBird-BBCV_EV_2019-2024.pdf"
+  },
+  {
+    "make": "blue_bird",
+    "model": "BBCV VISION ELECTRIC",
+    "url": "https://static.nhtsa.gov/erg/BLUE-BIRD/RescueSheet_BlueBirdVision_2019_2025.pdf"
+  },
+  {
+    "make": "blue_bird",
+    "model": "BBCV VISION ELECTRIC",
+    "url": "https://static.nhtsa.gov/erg/BLUE-BIRD/EmergencyResponseGuide_BlueBirdVision_2026_Present.pdf"
+  },
+  {
+    "make": "blue_bird",
+    "model": "BBCV VISION ELECTRIC",
+    "url": "https://static.nhtsa.gov/erg/BLUE-BIRD/RescueSheet_BlueBirdVision_2026_Present.pdf"
+  },
+  {
+    "make": "blue_bird",
+    "model": "T3RE ALL AMERICAN ELECTRIC",
+    "url": "https://static.nhtsa.gov/erg/BLUE-BIRD/EmergencyResponseGuide-BlueBird-T3RE_EV_2019-2024.pdf"
+  },
+  {
+    "make": "blue_bird",
+    "model": "T3RE ALL AMERICAN ELECTRIC",
+    "url": "https://static.nhtsa.gov/erg/BLUE-BIRD/RescueSheet_BlueBird_T3RE_All_American_2019_2025.pdf"
+  },
+  {
+    "make": "blue_bird",
+    "model": "T3RE ALL AMERICAN ELECTRIC",
+    "url": "https://static.nhtsa.gov/erg/BLUE-BIRD/EmergencyResponseGuide_BlueBird_T3RE_2019-2025.pdf"
+  },
+  {
+    "make": "blue_bird",
+    "model": "T3RE ALL AMERICAN ELECTRIC",
+    "url": "https://static.nhtsa.gov/erg/BLUE-BIRD/RescueSheet_BlueBird_T3RE_All_American_2026-Present.pdf"
+  },
+  {
+    "make": "bmw",
+    "model": "5 SERIES",
+    "url": "https://static.nhtsa.gov/erg/BMW/RescueSheet-BMW-5Series-2026_PHEV_1.pdf"
+  },
+  {
+    "make": "bmw",
+    "model": "5 SERIES",
+    "url": "https://static.nhtsa.gov/erg/BMW/EmergencyResponseGuide-BMWGroup-2026_PHEV_1.pdf"
+  },
+  {
+    "make": "bmw",
+    "model": "7 SERIES",
+    "url": "https://static.nhtsa.gov/erg/BMW/RescueSheet-BMW-7Series-2026_PHEV_1.pdf"
+  },
+  {
+    "make": "bmw",
+    "model": "I4",
+    "url": "https://static.nhtsa.gov/erg/BMW/RescueSheet-BMW-i4-2026_BEV_1.pdf"
+  },
+  {
+    "make": "bmw",
+    "model": "I4",
+    "url": "https://static.nhtsa.gov/erg/BMW/EmergencyResponseGuide-BMWGroup-2026_BEV_1.pdf"
+  },
+  {
+    "make": "bmw",
+    "model": "I5",
+    "url": "https://static.nhtsa.gov/erg/BMW/RescueSheet-BMW-i5-2026_BEV_1.pdf"
+  },
+  {
+    "make": "bmw",
+    "model": "I7",
+    "url": "https://static.nhtsa.gov/erg/BMW/RescueSheet-BMW-i7-2026_BEV_1.pdf"
+  },
+  {
+    "make": "bmw",
+    "model": "IX",
+    "url": "https://static.nhtsa.gov/erg/BMW/RescueSheet-BMW-iX-2026_BEV_1.pdf"
+  },
+  {
+    "make": "bmw",
+    "model": "M5",
+    "url": "https://static.nhtsa.gov/erg/BMW/RescueSheet-BMW-M5-2026_PHEV_1.pdf"
+  },
+  {
+    "make": "bmw",
+    "model": "M5 TOURING",
+    "url": "https://static.nhtsa.gov/erg/BMW/RescueSheet-BMW-M5Touring-2026_PHEV_1.pdf"
+  },
+  {
+    "make": "bmw",
+    "model": "X5",
+    "url": "https://static.nhtsa.gov/erg/BMW/RescueSheet-BMW-X5-2026_PHEV_1.pdf"
+  },
+  {
+    "make": "bmw",
+    "model": "XM",
+    "url": "https://static.nhtsa.gov/erg/BMW/RescueSheet-BMW-XM-2026_PHEV_1.pdf"
+  },
+  {
+    "make": "bollinger",
+    "model": "B4",
+    "url": "https://static.nhtsa.gov/erg/BOLLINGER-INNOVATIONS-INC/EmergencyResponseGuide_Bollinger_Motors_B4_MY2025_V5.pdf"
+  },
+  {
+    "make": "brightdrop",
+    "model": "ZEVO 400",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/EmergencyResponseGuide-GM-Brightdrop-Zevo_400_600-2022-2024.pdf"
+  },
+  {
+    "make": "brightdrop",
+    "model": "ZEVO 400",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet-GM-Brightdrop-Zevo_400-2024.pdf"
+  },
+  {
+    "make": "brightdrop",
+    "model": "ZEVO 600",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet_Brightdrop_Zevo_600_2022.pdf"
+  },
+  {
+    "make": "brightdrop",
+    "model": "ZEVO 600",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet-GM-Brightdrop-Zevo_600-2023-2024.pdf"
+  },
+  {
+    "make": "buick",
+    "model": "LACROSSE",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/EmergencyResponseGuide_Buick_LaCrosse_Regal_2012-2016.pdf"
+  },
+  {
+    "make": "buick",
+    "model": "LACROSSE",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet_Buick_LaCrosse_Regal_2012-2016.pdf"
+  },
+  {
+    "make": "buick",
+    "model": "LACROSSE",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet_Buick_LaCrosse_2018-2019.pdf"
+  },
+  {
+    "make": "byd",
+    "model": "8Y",
+    "url": "https://static.nhtsa.gov/erg/BYD/RIDE-COACH-AND-BUS-LLC/RescueSheet-RIDE-8Y-2024_to_2026-v1.1_BEV_1.pdf"
+  },
+  {
+    "make": "cadillac",
+    "model": "CELESTIQ",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/EmergencyResponseGuide_Cadillac_Celestiq_2025-.pdf"
+  },
+  {
+    "make": "cadillac",
+    "model": "CELESTIQ",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet_Cadillac_Celestiq_2025-.pdf"
+  },
+  {
+    "make": "cadillac",
+    "model": "CT6",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet-Cadillac-CT6_PHEV-2017-2018.pdf"
+  },
+  {
+    "make": "cadillac",
+    "model": "ELR",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/EmergencyResponseGuide-Cadillac-ELR_EREV-2014-2016.pdf"
+  },
+  {
+    "make": "cadillac",
+    "model": "ELR",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet-Cadillac-ELR_EREV-2014-2016.pdf"
+  },
+  {
+    "make": "cadillac",
+    "model": "ESCALADE",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/EmergencyResponseGuide-Cadillac-EscaladeHEV-2008-2013.pdf"
+  },
+  {
+    "make": "cadillac",
+    "model": "ESCALADE",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet-Cadillac-EscaladeHEV-2008-2013.pdf"
+  },
+  {
+    "make": "cadillac",
+    "model": "ESCALADE IQ",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/EmergencyResponseGuide_Cadillac_Escalade_IQ_IQL_2025-.pdf"
+  },
+  {
+    "make": "cadillac",
+    "model": "ESCALADE IQ",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet_Cadillac_Escalade_IQ_IQL_2025-.pdf"
+  },
+  {
+    "make": "cadillac",
+    "model": "LYRIQ",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/EmergencyResponseGuide_Cadillac_Lyriq_2023-.pdf"
+  },
+  {
+    "make": "cadillac",
+    "model": "LYRIQ",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet_Cadillac_Lyriq_2023-.pdf"
+  },
+  {
+    "make": "cadillac",
+    "model": "OPTIQ",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/EmergencyResponseGuide_Cadillac_Optiq_2025_3GY-24101.pdf"
+  },
+  {
+    "make": "cadillac",
+    "model": "OPTIQ",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet_Cadillac_Optiq_2025_3GY-24101.pdf"
+  },
+  {
+    "make": "cadillac",
+    "model": "VISTIQ",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/EmergencyResponseGuide_Cadillac_Vistiq_2026-.pdf"
+  },
+  {
+    "make": "cadillac",
+    "model": "VISTIQ",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet_Cadillac_Vistiq_2026-.pdf"
+  },
+  {
+    "make": "chevrolet",
+    "model": "BLAZER EV",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/EmergencyResponseGuide_Chevrolet_Blazer_EV_2024-.pdf"
+  },
+  {
+    "make": "chevrolet",
+    "model": "BLAZER EV",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet_Chevrolet_Blazer_EV_2024-.pdf"
+  },
+  {
+    "make": "chevrolet",
+    "model": "BOLT",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/EmergencyResponseGuide_Chevrolet_Bolt_SUV_2027_5d_Electric_EN_ERG_1G1-25201_2.pdf"
+  },
+  {
+    "make": "chevrolet",
+    "model": "BOLT",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet_Chevrolet_Bolt_SUV_2027_5d_Electric_EN_1G1-25201_2.pdf"
+  },
+  {
+    "make": "chevrolet",
+    "model": "BOLT EUV",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/EmergencyResponseGuide_Chevrolet_Bolt_EUV_2022-2023.pdf"
+  },
+  {
+    "make": "chevrolet",
+    "model": "BOLT EUV",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet_Chevrolet_Bolt_EUV_2022-2023.pdf"
+  },
+  {
+    "make": "chevrolet",
+    "model": "BOLT EV",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet-Chevrolet-Bolt_EV-2017-2019.pdf"
+  },
+  {
+    "make": "chevrolet",
+    "model": "BOLT EV",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/EmergencyResponseGuide_Chevrolet_Bolt_EV_2022-2023.pdf"
+  },
+  {
+    "make": "chevrolet",
+    "model": "BOLT EV",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet_Chevrolet_Bolt_EV_2022-2023.pdf"
+  },
+  {
+    "make": "chevrolet",
+    "model": "BRIGHTDROP 400",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/EmergencyResponseGuide_Chevrolet_BrightDrop_400_600_2025-.pdf"
+  },
+  {
+    "make": "chevrolet",
+    "model": "BRIGHTDROP 400",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet_Chevrolet_BrightDrop_400_2025-.pdf"
+  },
+  {
+    "make": "chevrolet",
+    "model": "BRIGHTDROP 600",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet_Chevrolet_BrightDrop_600_2025-.pdf"
+  },
+  {
+    "make": "chevrolet",
+    "model": "CORVETTE E-RAY (CONVERTIBLE)",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/EmergencyResponseGuide-Chevrolet_Corvette_E-Ray_ZR1X_2024.pdf"
+  },
+  {
+    "make": "chevrolet",
+    "model": "CORVETTE E-RAY (CONVERTIBLE)",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet-Chevrolet_Corvette_E-Ray_ZR1X_Cabrio_2024.pdf"
+  },
+  {
+    "make": "chevrolet",
+    "model": "CORVETTE E-RAY (COUPE)",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet-Chevrolet_Corvette_E-Ray_ZR1X_Coupe_2024.pdf"
+  },
+  {
+    "make": "chevrolet",
+    "model": "EQUINOX EV",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/EmergencyResponseGuide-Chevrolet-Equinox_EV-2024.pdf"
+  },
+  {
+    "make": "chevrolet",
+    "model": "EQUINOX EV",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet-Chevrolet-Equinox_EV-2024.pdf"
+  },
+  {
+    "make": "chevrolet",
+    "model": "EQUINOX FUEL CELL",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/EmergencyResponseGuide-Chevrolet-Equinox_FCV-2007-2008.pdf"
+  },
+  {
+    "make": "chevrolet",
+    "model": "EQUINOX FUEL CELL",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet-Chevrolet-Equinox_FCV-2007-2008.pdf"
+  },
+  {
+    "make": "chevrolet",
+    "model": "MALIBU ECO",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/EmergencyResponseGuide-Chevrolet-Malibu_HEV-2013-2015.pdf"
+  },
+  {
+    "make": "chevrolet",
+    "model": "MALIBU ECO",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet-Chevrolet-Malibu_HEV-2013-2015.pdf"
+  },
+  {
+    "make": "chevrolet",
+    "model": "MALIBU",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/EmergencyResponseGuide-Chevrolet-Malibu_HEV-2007-2009.pdf"
+  },
+  {
+    "make": "chevrolet",
+    "model": "MALIBU",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet-Chevrolet-Malibu_HEV-2007-2009.pdf"
+  },
+  {
+    "make": "chevrolet",
+    "model": "MALIBU",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet-Chevrolet-Malibu_HEV-2016-2019.pdf"
+  },
+  {
+    "make": "chevrolet",
+    "model": "SILVERADO EV",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/EmergencyResponseGuide-Chevrolet-Silverado_EV-2024.pdf"
+  },
+  {
+    "make": "chevrolet",
+    "model": "SILVERADO EV",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet-Chevrolet-Silverado_EV-2024.pdf"
+  },
+  {
+    "make": "chevrolet",
+    "model": "SILVERADO",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/EmergencyResponseGuide-Chevrolet-Silverado_HEV-2004-2007.pdf"
+  },
+  {
+    "make": "chevrolet",
+    "model": "SILVERADO",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/EmergencyResponseGuide-Chevrolet-Silverado-2009-2013.pdf"
+  },
+  {
+    "make": "chevrolet",
+    "model": "SILVERADO",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet-Chevrolet-Silverado_HEV-2009-2013.pdf"
+  },
+  {
+    "make": "chevrolet",
+    "model": "SILVERADO",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet-Chevrolet-Silverado_HEV-2016-2018.pdf"
+  },
+  {
+    "make": "chevrolet",
+    "model": "SPARK EV",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/EmergencyResponseGuide-Chevrolet-Spark_EV-2014-2016.pdf"
+  },
+  {
+    "make": "chevrolet",
+    "model": "SPARK EV",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet-Chevrolet-Spark_EV-2014-2016.pdf"
+  },
+  {
+    "make": "chevrolet",
+    "model": "TAHOE",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/EmergencyResponseGuide-Chevrolet-Tahoe_HEV-2008-2013.pdf"
+  },
+  {
+    "make": "chevrolet",
+    "model": "TAHOE",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet-Chevrolet-Tahoe_HEV-2008-2013.pdf"
+  },
+  {
+    "make": "chevrolet",
+    "model": "VOLT",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/EmergencyResponseGuide_Chevrolet_Volt_2011-2015.pdf"
+  },
+  {
+    "make": "chevrolet",
+    "model": "VOLT",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet-Chevrolet-Volt_EREV-2011-2015.pdf"
+  },
+  {
+    "make": "chevrolet",
+    "model": "VOLT",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet_Chevrolet_Volt_2016-2021.pdf"
+  },
+  {
+    "make": "chrysler",
+    "model": "CHRYSLER ASPEN",
+    "url": "https://static.nhtsa.gov/erg/FCA-US-LLC/EmergencyResponseGuide-Chrysler-Aspen_HEV-2009.pdf"
+  },
+  {
+    "make": "chrysler",
+    "model": "PACIFICA",
+    "url": "https://static.nhtsa.gov/erg/FCA-US-LLC/EmergencyResponseGuide-Chrysler-Pacifica_PHEV-2017-2018.pdf"
+  },
+  {
+    "make": "chrysler",
+    "model": "PACIFICA",
+    "url": "https://static.nhtsa.gov/erg/FCA-US-LLC/EmergencyResponseGuide-Chrysler-Pacifica-2017-2021.pdf"
+  },
+  {
+    "make": "chrysler",
+    "model": "PACIFICA",
+    "url": "https://static.nhtsa.gov/erg/FCA-US-LLC/EmergencyResponseGuide-Chrysler-Pacifica_PHEV-2017-2021.pdf"
+  },
+  {
+    "make": "chrysler",
+    "model": "PACIFICA",
+    "url": "https://static.nhtsa.gov/erg/FCA-US-LLC/EmergencyResponseGuide-Chrysler-Pacifica-Hybrid-2022-2026_PHEV_1.pdf"
+  },
+  {
+    "make": "chrysler",
+    "model": "PACIFICA",
+    "url": "https://static.nhtsa.gov/erg/FCA-US-LLC/RescueSheet-Chrysler-Pacifica-Hybrid-2022-2026_PHEV_1.pdf"
+  },
+  {
+    "make": "dodge",
+    "model": "CHARGER DAYTONA 2 DOOR",
+    "url": "https://static.nhtsa.gov/erg/FCA-US-LLC/EmergencyResponseGuide-Dodge-Charger-Daytona-2-Door-2024-2026_BEV_1.pdf"
+  },
+  {
+    "make": "dodge",
+    "model": "CHARGER DAYTONA 2 DOOR",
+    "url": "https://static.nhtsa.gov/erg/FCA-US-LLC/RescueSheet-Dodge-Charger-Daytona-2-Door-2024-2026_BEV_1.pdf"
+  },
+  {
+    "make": "dodge",
+    "model": "CHARGER DAYTONA 4 DOOR",
+    "url": "https://static.nhtsa.gov/erg/FCA-US-LLC/EmergencyResponseGuide-Dodge-Charger-Daytona-4-Door-2025-2026_BEV_1.pdf"
+  },
+  {
+    "make": "dodge",
+    "model": "CHARGER DAYTONA 4 DOOR",
+    "url": "https://static.nhtsa.gov/erg/FCA-US-LLC/RescueSheet-Dodge-Charger-Daytona-4-Door-2025-2026_BEV_1.pdf"
+  },
+  {
+    "make": "dodge",
+    "model": "DODGE DURANGO",
+    "url": "https://static.nhtsa.gov/erg/FCA-US-LLC/EmergencyResponseGuide-Dodge-ChargerDaytona-2024.pdf"
+  },
+  {
+    "make": "dodge",
+    "model": "DODGE DURANGO",
+    "url": "https://static.nhtsa.gov/erg/FCA-US-LLC/RescueSheet-Dodge-ChargerDaytona-2024.pdf"
+  },
+  {
+    "make": "dodge",
+    "model": "DODGE DURANGO",
+    "url": "https://static.nhtsa.gov/erg/FCA-US-LLC/EmergencyResponseGuide-DodgeDurangoHEV-2009.pdf"
+  },
+  {
+    "make": "dodge",
+    "model": "HORNET",
+    "url": "https://static.nhtsa.gov/erg/FCA-US-LLC/EmergencyResponseGuide-Dodge-Hornet_PHEV-2023-2024.pdf"
+  },
+  {
+    "make": "dodge",
+    "model": "HORNET",
+    "url": "https://static.nhtsa.gov/erg/FCA-US-LLC/RescueSheet-Dodge-Hornet_PHEV-2023-2024.pdf"
+  },
+  {
+    "make": "e-one",
+    "model": "VECTOR",
+    "url": "https://static.nhtsa.gov/erg/E-ONE,-INC/EmergencyResponseGuide-Vector-ElectricFireTruck-2023.pdf"
+  },
+  {
+    "make": "endera",
+    "model": "EXTENDED RANGE-CHARGE PORT ON L/S OF GRILL",
+    "url": "https://static.nhtsa.gov/erg/ENDERA-MOTORS,-LLC/EmergencyResponseGuide-Endera-ExtendedRangeBseries2023-.pdf"
+  },
+  {
+    "make": "endera",
+    "model": "MOTIV DRIVE-CHARGE PORT BEHIND LEFT REAR TIRES",
+    "url": "https://static.nhtsa.gov/erg/ENDERA-MOTORS,-LLC/EmergencyResponseGuide-Endera-MotivDrive-2023-.pdf"
+  },
+  {
+    "make": "endera",
+    "model": "STANDARD RANGE-CHARGE PORT ON R/S OF GRILL",
+    "url": "https://static.nhtsa.gov/erg/ENDERA-MOTORS,-LLC/EmergencyResponseGuide-Endera-StandardRange-2024-.pdf"
+  },
+  {
+    "make": "ferrari",
+    "model": "296 GTB",
+    "url": "https://static.nhtsa.gov/erg/FERRARI-NORTH-AMERICA/EmergencyResponseGuide-Ferrari-296GTB-2022-2026_PHEV_1.pdf"
+  },
+  {
+    "make": "ferrari",
+    "model": "296 GTB",
+    "url": "https://static.nhtsa.gov/erg/FERRARI-NORTH-AMERICA/RescueSheet-Ferrari-296GTB-2022-2026.pdf"
+  },
+  {
+    "make": "ferrari",
+    "model": "296 GTS",
+    "url": "https://static.nhtsa.gov/erg/FERRARI-NORTH-AMERICA/EmergencyResponseGuide-Ferrari-296GTS-2023-2026.pdf"
+  },
+  {
+    "make": "ferrari",
+    "model": "296 GTS",
+    "url": "https://static.nhtsa.gov/erg/FERRARI-NORTH-AMERICA/RescueSheet-Ferrari-296GTS-2023-2026.pdf"
+  },
+  {
+    "make": "ferrari",
+    "model": "296 SPECIALE A",
+    "url": "https://static.nhtsa.gov/erg/FERRARI-NORTH-AMERICA/EmergencyResponseGuide-Ferrari-296SpecialeA-2026.pdf"
+  },
+  {
+    "make": "ferrari",
+    "model": "296 SPECIALE A",
+    "url": "https://static.nhtsa.gov/erg/FERRARI-NORTH-AMERICA/RescueSheet-Ferrari-296SpecialeA-2026.pdf"
+  },
+  {
+    "make": "ferrari",
+    "model": "296 SPECIALE",
+    "url": "https://static.nhtsa.gov/erg/FERRARI-NORTH-AMERICA/EmergencyResponseGuide-Ferrari-296Speciale-2026.pdf"
+  },
+  {
+    "make": "ferrari",
+    "model": "296 SPECIALE",
+    "url": "https://static.nhtsa.gov/erg/FERRARI-NORTH-AMERICA/RescueSheet-Ferrari-296Speciale-2026_PHEV_1.pdf"
+  },
+  {
+    "make": "ferrari",
+    "model": "849 TESTAROSSA",
+    "url": "https://static.nhtsa.gov/erg/FERRARI-NORTH-AMERICA/EmergencyResponseGuide-Ferrari-849Testarossa-2026.pdf"
+  },
+  {
+    "make": "ferrari",
+    "model": "849 TESTAROSSA",
+    "url": "https://static.nhtsa.gov/erg/FERRARI-NORTH-AMERICA/RescueSheet-Ferrari-849Testarossa-2026.pdf"
+  },
+  {
+    "make": "ferrari",
+    "model": "F80",
+    "url": "https://static.nhtsa.gov/erg/FERRARI-NORTH-AMERICA/EmergencyResponseGuide-Ferrari-F80-2026.pdf"
+  },
+  {
+    "make": "ferrari",
+    "model": "F80",
+    "url": "https://static.nhtsa.gov/erg/FERRARI-NORTH-AMERICA/RescueSheet-Ferrari-F80-2026.pdf"
+  },
+  {
+    "make": "fisker",
+    "model": "KARMA ELECTRIC",
+    "url": "https://static.nhtsa.gov/erg/FISKER-INC/EmergencyResponseGuide-Fisker-Karma_PHEV-2011-2012.pdf"
+  },
+  {
+    "make": "fisker",
+    "model": "OCEAN ELECTRIC",
+    "url": "https://static.nhtsa.gov/erg/FISKER-INC/EmergencyResponseGuide-Fisker-Ocean-2022.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "C-MAX ENERGI",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuideCMax_HEV_PHEV-2013.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "C-MAX ENERGI",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide_Ford_C-Max_PHEV_HEV_2013-2018.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "C-MAX ENERGI",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-CMax_Hybrid_Energi-2014.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "C-MAX ENERGI",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide_Ford_C-MaxHybrid_PHEVEnergie-2015-2018.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "C-MAX HYBRID",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuideCMax_Hybrid-2013.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "C-MAX HYBRID",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide_Ford_C-Max_HEV_2013-2018.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "C-MAX HYBRID",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-CMax_Hybrid-2014.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "C-MAX HYBRID",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide_Ford_C-MaxHybrid_C-MAX_Energie-2015-2018.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "E-TRANSIT",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Ford-E-Transit-2022-2025.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "E-TRANSIT",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/RescueSheet-Ford-E-Transit-2022-2025.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "E-TRANSIT",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Ford-E-Transit-2026.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "E-TRANSIT",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/RescueSheet-Ford-E-Transit-2026.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "ESCAPE (PHEV)",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Ford-EscapePHEV-2020-2025.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "ESCAPE (PHEV)",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/RescueSheet-Ford-EscapePHEV-2020-2025.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "ESCAPE (PHEV)",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Ford-EscapePHEV-2026.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "ESCAPE (PHEV)",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/RescueSheet-Ford-EscapePHEV-2026.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "ESCAPE HYBRID",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide_FordEscape_HEV_2005_2007.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "ESCAPE HYBRID",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Escape-Mariner_Hybrid-2006-2007.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "ESCAPE HYBRID",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide_Escape_HYbrid-2008.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "ESCAPE HYBRID",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide_FordEscape_HEV_2008-2009.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "ESCAPE HYBRID",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Escape_Mariner_Hybrid-2009.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "ESCAPE HYBRID",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Escape_Hybrid-Mariner_Hybrid-2010.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "ESCAPE HYBRID",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide_FordEscape_HEV_2010_2012.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "ESCAPE HYBRID",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-EscapeMarinerHybrid-2011.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "ESCAPE HYBRID",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-EscapeHybrid-2012.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "ESCAPE HYBRID",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Ford-EscapeHybrid-2020-2025.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "ESCAPE HYBRID",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/RescueSheet-Ford-EscapeHybrid-2020-2025.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "ESCAPE HYBRID",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Ford-EscapeHybrid-2026.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "ESCAPE HYBRID",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/RescueSheet-Ford-EscapeHybrid-2026.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "EXPLORER HEV",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide_FordEXPLORER-LincolnAVIATOR_202_09-23-2019.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "EXPLORER HEV",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide_FordEXPLORER-LincolnAVIATOR_Hybrid_2021-2024.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "EXPLORER HEV",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Ford-ExplorerHybrid-2025.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "EXPLORER HEV",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/RescueSheet-Ford-Explorer-2025.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "EXPLORER HEV",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Ford-ExplorerHybrid-2026.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "EXPLORER HEV",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/RescueSheet-Ford-Explorer-2026.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "F-150 HYBRID (POWERBOOST)",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Ford-F-150-2021-2024.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "F-150 HYBRID (POWERBOOST)",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/RescueSheet-Ford-F-150Hybrid-2021-2024.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "F-150 HYBRID (POWERBOOST)",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Ford-F-150-2025.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "F-150 HYBRID (POWERBOOST)",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/RescueSheet-Ford-F-150Hybrid-2025.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "F-150 HYBRID (POWERBOOST)",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Ford-F-150-2026.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "F-150 HYBRID (POWERBOOST)",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/RescueSheet-Ford-F-150Hybrid-2026.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "F-150 LIGHTNING",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Ford-Lightning-2022-2024.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "F-150 LIGHTNING",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/RescueSheet-Ford-Lightning-2022-2024.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "F-150 LIGHTNING",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Ford-Lightning-2025.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "F-150 LIGHTNING",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/RescueSheet-Ford-Lightning-2025.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "F-150 LIGHTNING",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Ford-Lightning-2026.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "F-150 LIGHTNING",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/RescueSheet-Ford-Lightning-2026.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "FOCUS ELECTRIC",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Focus_ElectricVehicle_2012.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "FOCUS ELECTRIC",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Focus_ElectricVehicle-2013.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "FOCUS ELECTRIC",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Focus_EV-2014.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "FOCUS ELECTRIC",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide_FordFocus_2015-2018.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "FOCUS ELECTRIC",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide_FordFocus_EV_2017-2018.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "FUSION ENERGI (PHEV)",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide_Fusion-MKZ_HEV_2015-2019_1-28-19.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "FUSION ENERGI (PHEV)",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide_FusionEnergie_PHEV_2015_2019_1-28-19.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "FUSION HYBRID SE (HEV)",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Fusion_Hybrid-Milan_Hybrid-2010.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "FUSION HYBRID SE (HEV)",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide_FordFusion_MKZ_HEV_2010-2012.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "FUSION HYBRID SE (HEV)",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-FusionHybrid-2012.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "FUSION HYBRID SE (HEV)",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Fusion_Hybrid-MKZ_Hybrid-Fusion_Energi-2013.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "FUSION HYBRID SE (HEV)",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide_FordFusionMKZ_2015-2019_HEV_1-28-19.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "MAVERICK",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Ford-Maverick-2022-2025.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "MAVERICK",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/RescueSheet-Ford-Maverick-2022-2025.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "MAVERICK",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Ford-Maverick-2026.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "MAVERICK",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/RescueSheet-Ford-Maverick-2026.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "MUSTANG MACH-E",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Ford-Mach-E-2021-2024.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "MUSTANG MACH-E",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/RescueSheet-Ford-Mach-E-2021-2024.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "MUSTANG MACH-E",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Ford-Mach-E-2025.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "MUSTANG MACH-E",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/RescueSheet-Ford-Mach-E-2025.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "MUSTANG MACH-E",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Ford-Mach-E-2026.pdf"
+  },
+  {
+    "make": "ford",
+    "model": "MUSTANG MACH-E",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/RescueSheet-Ford-Mach-E-2026.pdf"
+  },
+  {
+    "make": "freightliner_custom_chassis",
+    "model": "MT50E",
+    "url": "https://static.nhtsa.gov/erg/DAIMLER-TRUCK-NORTH-AMERICA/EmergencyResponseGuide-FreightlinerCustomChassis-MT50e-2021.pdf"
+  },
+  {
+    "make": "freightliner_custom_chassis",
+    "model": "MT50E",
+    "url": "https://static.nhtsa.gov/erg/DAIMLER-TRUCK-NORTH-AMERICA/RescueSheet-FreightlinerCustomChassis-MT50e-2021.pdf"
+  },
+  {
+    "make": "freightliner",
+    "model": "ECASCADIA",
+    "url": "https://static.nhtsa.gov/erg/DAIMLER-TRUCK-NORTH-AMERICA/EmergencyResponseGuide-Freightliner-eCascadia-2023.pdf"
+  },
+  {
+    "make": "freightliner",
+    "model": "ECASCADIA",
+    "url": "https://static.nhtsa.gov/erg/DAIMLER-TRUCK-NORTH-AMERICA/RescueSheet-Freightliner-eCascadia-2023.pdf"
+  },
+  {
+    "make": "freightliner",
+    "model": "EM2",
+    "url": "https://static.nhtsa.gov/erg/DAIMLER-TRUCK-NORTH-AMERICA/EmergencyResponseGuide-Freightliner-eM2-2024.pdf"
+  },
+  {
+    "make": "freightliner",
+    "model": "EM2",
+    "url": "https://static.nhtsa.gov/erg/DAIMLER-TRUCK-NORTH-AMERICA/RescueSheet-Freightliner-eM2-2024.pdf"
+  },
+  {
+    "make": "genesis",
+    "model": "ELECTRIFIED G80",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/EmergencyResponseGuide-G80-2023.pdf"
+  },
+  {
+    "make": "genesis",
+    "model": "ELECTRIFIED G80",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/RescueSheet-G80-2023.pdf"
+  },
+  {
+    "make": "genesis",
+    "model": "ELECTRIFIED GV70",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/EmergencyResponseGuide-GV70-2023.pdf"
+  },
+  {
+    "make": "genesis",
+    "model": "ELECTRIFIED GV70",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/RescueSheet-GV70-2023.pdf"
+  },
+  {
+    "make": "genesis",
+    "model": "ELECTRIFIED GV70",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/EmergencyResponseGuide_GenesisGV70_Electric_2026.pdf"
+  },
+  {
+    "make": "genesis",
+    "model": "ELECTRIFIED GV70",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/RescueSheet_GenesisGV70_Electric_2026.pdf"
+  },
+  {
+    "make": "genesis",
+    "model": "GV60",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/EmergencyResponseGuide-GV60-2023.pdf"
+  },
+  {
+    "make": "genesis",
+    "model": "GV60",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/RescueSheet-GV60-2023.pdf"
+  },
+  {
+    "make": "genesis",
+    "model": "GV60",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/EmergencyResponseGuide-Genesis-GV60-MY2026_BEV_1.pdf"
+  },
+  {
+    "make": "genesis",
+    "model": "GV60",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/RescueSheet-Genesis-GV60-MY2026_BEV_1.pdf"
+  },
+  {
+    "make": "gillig",
+    "model": "35/40-FOOT BATTERY ELECTRIC BUS (GEN 2.0)",
+    "url": "https://static.nhtsa.gov/erg/GILLIG/EmergencyResponseGuide_Shutdown_GilligCUMMINS__ElectricBUS_Gen10_2016-2018.pdf"
+  },
+  {
+    "make": "gillig",
+    "model": "35/40-FOOT BATTERY ELECTRIC BUS (GEN 3.0)",
+    "url": "https://static.nhtsa.gov/erg/GILLIG/EmergencyResponseGuide_Gillig_ElectricBus_Gen_202530_5184891002.pdf"
+  },
+  {
+    "make": "gillig",
+    "model": "35/40-FOOT BATTERY ELECTRIC BUS (GEN 3.0)",
+    "url": "https://static.nhtsa.gov/erg/GILLIG/RescueSheet_Gillig_ElectricBus_Gen202530_5182371010.pdf"
+  },
+  {
+    "make": "gillig",
+    "model": "35/40-FOOT HYBRID BUS (WITH ALLISON HYBRID EGEN FLEX ELECTRIC SYSTEM)",
+    "url": "https://static.nhtsa.gov/erg/GILLIG/EmergencyResponseGuide_GilligALLISONBus_HEV_eGenFlex_51-84891-003.pdf"
+  },
+  {
+    "make": "gillig",
+    "model": "35/40-FOOT HYBRID BUS (WITH ALLISON HYBRID EGEN FLEX ELECTRIC SYSTEM)",
+    "url": "https://static.nhtsa.gov/erg/GILLIG/RescueSheet_GilligALLISONBus_HEV_eGenFlex_51-82371-011.pdf"
+  },
+  {
+    "make": "gillig",
+    "model": "BUS ALLISON HYBRID EP 40-50",
+    "url": "https://static.nhtsa.gov/erg/GILLIG/EmergencyResponseGuide_GilligAllison_Hybrid_EP40-50_Shutdown_51-82371-000.pdf"
+  },
+  {
+    "make": "gillig",
+    "model": "BUS BAE HYBRID ELECTRIC BUS",
+    "url": "https://static.nhtsa.gov/erg/GILLIG/EmergencyResponseGuide_GilligBAE_Hybrid_Shutdown_51-82371-001.pdf"
+  },
+  {
+    "make": "gillig",
+    "model": "GILLIG HYBRID BUS MODELS",
+    "url": "https://static.nhtsa.gov/erg/GILLIG/EmergencyResponseGuide_GilligVoith_Hybrid_Shutdown_81.pdf"
+  },
+  {
+    "make": "gmc",
+    "model": "HUMMER EV PICKUP",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/EmergencyResponseGuide_GMC_HUMMER_EV_AWD_Pick-up_2022_4d_Electric_EN_ERG_1GT-21101.pdf"
+  },
+  {
+    "make": "gmc",
+    "model": "HUMMER EV PICKUP",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet_GMC_HUMMER_EV_AWD_Pick-up_2022_4d_Electric_EN_1GT-21101.pdf"
+  },
+  {
+    "make": "gmc",
+    "model": "HUMMER EV SUV",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/EmergencyResponseGuide_GMC_HUMMER_EV_SUV_2024-.pdf"
+  },
+  {
+    "make": "gmc",
+    "model": "HUMMER EV SUV",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet_GMC_HUMMER_EV_SUV_2024-.pdf"
+  },
+  {
+    "make": "gmc",
+    "model": "SIERRA EV",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/EmergencyResponseGuide_GMC_SierraEV_2024-.pdf"
+  },
+  {
+    "make": "gmc",
+    "model": "SIERRA EV",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet_GMC_SierraEV_2024-.pdf"
+  },
+  {
+    "make": "gmc",
+    "model": "SIERRA",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/EmergencyResponseGuide-GMC-SierraHEV-2004-2007.pdf"
+  },
+  {
+    "make": "gmc",
+    "model": "SIERRA",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/EmergencyResponseGuide_Hybrid_Truck_2008-2013.pdf"
+  },
+  {
+    "make": "gmc",
+    "model": "SIERRA",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet_Hybrid_Truck_2008-2013.pdf"
+  },
+  {
+    "make": "gmc",
+    "model": "SIERRA",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/EmergencyResponseGuide-GMC-SierraHEV-2009-2013.pdf"
+  },
+  {
+    "make": "gmc",
+    "model": "SIERRA",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet-GMC-SierraHEV-2009-2013.pdf"
+  },
+  {
+    "make": "gmc",
+    "model": "SIERRA",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet-GMC-SierraHEV-2016-2018.pdf"
+  },
+  {
+    "make": "greenpower",
+    "model": "EV STAR",
+    "url": "https://static.nhtsa.gov/erg/GREENPOWER/RescueSheet-GreenPowerMotors-EVStar-2018-2021.pdf"
+  },
+  {
+    "make": "honda",
+    "model": "ACCORD HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HONDA/EmergencyResponseGuide-Honda-Accord_HEV-2014-2017.pdf"
+  },
+  {
+    "make": "honda",
+    "model": "ACCORD HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HONDA/EmergencyResponseGuide-Accord_Hybrid-2018-2022.pdf"
+  },
+  {
+    "make": "honda",
+    "model": "ACCORD HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HONDA-MOTOR-CO/EmergencyResponseGuide-Honda-Accord_Hybrid-2023-2026_HEV_1.pdf"
+  },
+  {
+    "make": "honda",
+    "model": "ACCORD HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HONDA-MOTOR-CO/RescueSheet-Honda-Accord_Hybrid-2023-2026.pdf"
+  },
+  {
+    "make": "honda",
+    "model": "ACCORD PLUG-IN HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HONDA/EmergencyResponseGuide-Honda-Accord_PHEV-2014.pdf"
+  },
+  {
+    "make": "honda",
+    "model": "CLARITY ELECTRIC",
+    "url": "https://static.nhtsa.gov/erg/HONDA/EmergencyResponseGuide-Clarity_Electric-2017-2019.pdf"
+  },
+  {
+    "make": "honda",
+    "model": "CLARITY FUEL CELL",
+    "url": "https://static.nhtsa.gov/erg/HONDA/EmergencyResponseGuide-Clarity_Fuel_Cell-2017-2021.pdf"
+  },
+  {
+    "make": "honda",
+    "model": "CLARITY PLUG-IN HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HONDA/EmergencyResponseGuide-Clarity_PHEV-2018-2021.pdf"
+  },
+  {
+    "make": "honda",
+    "model": "CR-V EFCEV",
+    "url": "https://static.nhtsa.gov/erg/HONDA-MOTOR-CO/EmergencyResponseGuide-Honda-CRV_eFCEV-2025-2026_FCEV_1.pdf"
+  },
+  {
+    "make": "honda",
+    "model": "CR-V EFCEV",
+    "url": "https://static.nhtsa.gov/erg/HONDA-MOTOR-CO/RescueSheet-Honda-CRV_eFCEV-2025-2026.pdf"
+  },
+  {
+    "make": "honda",
+    "model": "CR-V HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HONDA/EmergencyResponseGuide-Honda-CR-V_Hybrid-2020-2022.pdf"
+  },
+  {
+    "make": "honda",
+    "model": "CR-V HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HONDA-MOTOR-CO/EmergencyResponseGuide-Honda-CRV_Hybrid-2023-2026.PDF_HEV_1.pdf"
+  },
+  {
+    "make": "honda",
+    "model": "CR-V HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HONDA-MOTOR-CO/RescueSheet-Honda-CRV_Hybrid-2023-2026.pdf"
+  },
+  {
+    "make": "honda",
+    "model": "FIT EV",
+    "url": "https://static.nhtsa.gov/erg/HONDA/EmergencyResponseGuide-Honda-Fit_EV-2013-2014.pdf"
+  },
+  {
+    "make": "honda",
+    "model": "HONDA CIVIC HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HONDA-MOTOR-CO/EmergencyResponseGuide-Honda-Civic_Hybrid-2025-2026.PDF_HEV_1.pdf"
+  },
+  {
+    "make": "honda",
+    "model": "HONDA CIVIC HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HONDA-MOTOR-CO/RescueSheet-Honda-Civic_Hybrid-2025-2026.pdf"
+  },
+  {
+    "make": "honda",
+    "model": "HONDA INSIGHT HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HONDA/EmergencyResponseGuide-Honda_Insight_HEV-2019.pdf"
+  },
+  {
+    "make": "honda",
+    "model": "PRELUDE",
+    "url": "https://static.nhtsa.gov/erg/HONDA-MOTOR-CO/EmergencyResponseGuide-Honda-Prelude-2026_HEV_1.pdf"
+  },
+  {
+    "make": "honda",
+    "model": "PRELUDE",
+    "url": "https://static.nhtsa.gov/erg/HONDA-MOTOR-CO/RescueSheet-Honda-Prelude-2026.pdf"
+  },
+  {
+    "make": "honda",
+    "model": "PROLOGUE",
+    "url": "https://static.nhtsa.gov/erg/HONDA-MOTOR-CO/EmergencyResponseGuide-Honda-Prologue-2024-2026_BEV_1.pdf"
+  },
+  {
+    "make": "honda",
+    "model": "PROLOGUE",
+    "url": "https://static.nhtsa.gov/erg/HONDA-MOTOR-CO/RescueSheet-Honda-Prologue-2024-2026.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "ELANTRA HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/EmergencyResponseGuide-Hyundai-Elantra_Hybrid-2021.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "ELANTRA HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/RescueSheet-Elantra_Hybrid-2021.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "ELANTRA HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/EmergencyResponseGuide-Elantra_Hybrid-2024.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "ELANTRA HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/RescueSheet-Elantra_Hybrid-2024.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "IONIQ 5",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/EmergencyResponseGuide-Hyundai-IONIQ-2017-2022.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "IONIQ 5",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/EmergencyResponseGuide_Hyuandai-IONIQ_5-2022.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "IONIQ 5",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/RescueSheet-Hyundai-IONIQ_5-2022.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "IONIQ 5",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/EmergencyResponseGuide_Hyundai-IONIQ_5-2025.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "IONIQ 5",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/RescueSheet-Hyundai-IONIQ_5-2025.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "IONIQ 5 N",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/EmergencyResponseGuide-Hyundai-IONIQ5N-MY2025_BEV_1.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "IONIQ 5 N",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/RescueSheet-Hyundai-IONIQ5_N-2025.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "IONIQ 6",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/EmergencyResponseGuide-Hyundai-IONIQ_6-2023.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "IONIQ 6",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/RescueSheet-Hyundai-IONIQ_6-2023.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "IONIQ 6",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/EmergencyResponseGuide-Hyundai-Ioniq6-MY2026_BEV_1.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "IONIQ 6",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/RescueSheet-Hyundai-Ioniq6-MY2026_BEV_1.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "IONIQ 6 N",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/EmergencyResponseGuide-Hyundai-Ioniq6N-MY2026_BEV_1.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "IONIQ 6 N",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/RescueSheet-Hyundai-Ioniq6N-MY2026_BEV_1.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "IONIQ 9",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/RescueSheet_Hyundai_Ioniq9_EV_2026_BEV_1.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "IONIQ ELECTRIC",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/RescueSheet-Hyundai-IONIQ-2017-2022.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "IONIQ HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/EmergencyResponseGuide-Hyundai-IONIQ_Hybrid-2017-2022.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "IONIQ HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/RescueSheet-Hyundai-IONIQ_Hybrid-2017-2022.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "IONIQ PLUG-IN HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/EmergencyResponseGuide-Hyundai-IONIQ_PHEV-2017-2022.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "KONA ELECTRIC",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/EmergencyResponseGuide-Hyundai-Kona_Electric-2018.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "KONA ELECTRIC",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/RescueSheet-Hyundai-Kona_Electric-2018.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "KONA ELECTRIC",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/EmergencyResponseGuide-Hyundai-KonaElectric-MY2026_BEV_1.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "KONA ELECTRIC",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/RescueSheet-Hyundai-KonaElectric-MY2026_BEV_1.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "NEXO",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/EmergencyResponseGuide-Hyundai-Nexo_Hydrogen_Fuel_Cell-2019.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "NEXO",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/RescueSheet-Hyundai-Nexo_Hydrogen_Fuel_Cell-2019.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "NEXO",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/EmergencyResponseGuide-Hyundai-Nexo-MY2026_FCEV_1.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "NEXO",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/RescueSheet-Hyundai-Nexo-MY2026_FCEV_1.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "PALISADE HEV",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/EmergencyResponseGuide-Hyundai-PalisadeHEV-MY2026_HEV_1.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "PALISADE HEV",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/RescueSheet-Hyundai-PalisadeHEV-MY2026_HEV_1.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "SANTA FE HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/EmergencyResponseGuide-Hyundai-SantaFe_Hybrid-2021.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "SANTA FE HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/RescueSheet-Hyundai-SantaFeHybrid-2021.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "SANTA FE HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/EmergencyResponseGuide-Hyundai-SantaFe_Hybrid-2024.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "SANTA FE HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/RescueSheet-Hyundai-SantaFe_Hybrid-2024.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "SANTA FE PLUG-IN HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/EmergencyResponseGuide_SantaFePHEV-2021.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "SANTA FE PLUG-IN HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/RescueSheet-Hyundai-SantaFePHEV-2021.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "SONATA HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/EmergencyResponseGuide-Hyundai-Sonata_Hybrid-2011-2015.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "SONATA HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/RescueSheet-Hyundai-Sonata_Hybrid-2011-2015.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "SONATA HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/EmergencyResponseGuide-Hyundai-Sonata_Hybrid-2016-2019.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "SONATA HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/RescueSheet-Hyundai-Sonata_Hybrid-2016-2019.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "SONATA HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/EmergencyResponseGuide_Hyundai-Sonata_Hybrid-2020.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "SONATA HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/RescueSheet-Hyundai-Sonata_Hybrid-2020.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "SONATA HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/EmergencyResponseGuide-Hyundai-Sonata_Hybrid-2024.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "SONATA HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/RescueSheets-Hyundai-Sonata_Hybrid-2024.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "SONATA HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/RescueSheet-Hyundai-Sonata_PHEV-2016-2019.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "TUCSON FUEL CELL",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/EmergencyResponseGuide-Hyundai-Tucson_Hydrogen_Fuel_Cell-2015-2017.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "TUCSON FUEL CELL",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/RescueSheet-Hyundai-Tucson_Hydrogen_Fuel_Cell-2015-2017.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "TUCSON HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/EmergencyResponseGuide-Hyundai-Tucson_Hybrid-2022.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "TUCSON HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/RescueSheet_Hyundai-Tucson_Hybrid-2022.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "TUCSON HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/EmergencyResponseGuide-Hyundai-Tucson_Hybrid-2025.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "TUCSON HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/RescueSheet-Hyundai-Tucson_Hybrid-2025.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "TUSCON PLUG-IN HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/EmergencyResponseGuide-Hyundai-Tucson_PHEV-2022.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "TUSCON PLUG-IN HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/RescueSheet-HYundai-Tucson_PHEV-2022.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "TUSCON PLUG-IN HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/EmergencyResponseGuide-Hyundai-Tucson-PHEV-2025.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "TUSCON PLUG-IN HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/RescueSheet-Hyundai-Tucson-PHEV-2025.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "XCIENT FUEL CELL TRUCK",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/RescueSheet-Hyundai-XCIENT_Fuel_Cell_Truck-2023.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "XCIENT FUEL CELL TRUCK",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI/EmergencyResponseGuide_HyundaiXCIENT_FuelCell_Truck_2023.pdf"
+  },
+  {
+    "make": "hyzon",
+    "model": "HYZON",
+    "url": "https://static.nhtsa.gov/erg/HYZON/RescueSheet-Hyzon-FCEV-v2.pdf"
+  },
+  {
+    "make": "ic",
+    "model": "ECE - PB10E",
+    "url": "https://static.nhtsa.gov/erg/INTERNATIONAL-MOTORS/EmergencyResponseGuide-IC-eCE-2021-2026.pdf"
+  },
+  {
+    "make": "ic",
+    "model": "ECE - PB10E",
+    "url": "https://static.nhtsa.gov/erg/INTERNATIONAL-MOTORS/RescueSheet-IC-eCE-2021-2026.pdf"
+  },
+  {
+    "make": "ic",
+    "model": "ECE - PB11E",
+    "url": "https://static.nhtsa.gov/erg/INTERNATIONAL-MOTORS/EmergencyResponseGuide-IC-eCE-2026-Present.pdf"
+  },
+  {
+    "make": "ic",
+    "model": "ECE - PB11E",
+    "url": "https://static.nhtsa.gov/erg/INTERNATIONAL-MOTORS/RescueSheet-IC-eCE-2026-Present.pdf"
+  },
+  {
+    "make": "international",
+    "model": "EMV\u2122",
+    "url": "https://static.nhtsa.gov/erg/INTERNATIONAL-MOTORS/EmergencyResponseGuide-International-eMV-2021-Present.pdf"
+  },
+  {
+    "make": "international",
+    "model": "EMV\u2122",
+    "url": "https://static.nhtsa.gov/erg/INTERNATIONAL-MOTORS/RescueSheet-International-eMV-2021-Present.pdf"
+  },
+  {
+    "make": "isuzu",
+    "model": "NRR EV",
+    "url": "https://static.nhtsa.gov/erg/ISUZU-COMMERCIAL-TRUCK-OF-AMERICA/EmergencyResponseGuide-Isuzu-NRREV-20252026_BEV_1.pdf"
+  },
+  {
+    "make": "jeep",
+    "model": "CHEROKEE",
+    "url": "https://static.nhtsa.gov/erg/FCA-US-LLC/EmergencyResponseGuide-Jeep-Cherokee-2026-V2_HEV_1.pdf"
+  },
+  {
+    "make": "jeep",
+    "model": "CHEROKEE",
+    "url": "https://static.nhtsa.gov/erg/FCA-US-LLC/RescueSheet-Jeep-Cherokee-2026-V2_HEV_1.pdf"
+  },
+  {
+    "make": "jeep",
+    "model": "GRAND CHEROKEE 4XE",
+    "url": "https://static.nhtsa.gov/erg/FCA-US-LLC/EmergencyResponseGuide_Jeep_GrandCherokee4xe_PHEV_2022_2024.pdf"
+  },
+  {
+    "make": "jeep",
+    "model": "WAGONEER S",
+    "url": "https://static.nhtsa.gov/erg/FCA-US-LLC/EmergencyResponseGuide-Jeep-Wagoneer-S-2024-2026_BEV_1.pdf"
+  },
+  {
+    "make": "jeep",
+    "model": "WAGONEER S",
+    "url": "https://static.nhtsa.gov/erg/FCA-US-LLC/RescueSheet-Jeep-Wagoneer-S-2024-2026_BEV_1.pdf"
+  },
+  {
+    "make": "jeep",
+    "model": "WRANGLER 4XE",
+    "url": "https://static.nhtsa.gov/erg/FCA-US-LLC/EmergencyResponseGuide_JeepWrangler4xeJL17840_PHEV_2021_Version2B.pdf"
+  },
+  {
+    "make": "jeep",
+    "model": "WRANGLER 4XE",
+    "url": "https://static.nhtsa.gov/erg/FCA-US-LLC/EmergencyResponseGuide-Jeep-Wrangler-4Xe-Hybrid-2024-2026_PHEV_1.pdf"
+  },
+  {
+    "make": "jeep",
+    "model": "WRANGLER 4XE",
+    "url": "https://static.nhtsa.gov/erg/FCA-US-LLC/RescueSheet-Jeep-Wrangler-4Xe-Hybrid-2024-2026_PHEV_1.pdf"
+  },
+  {
+    "make": "kalmar_ottawa",
+    "model": "OT2 EV",
+    "url": "https://static.nhtsa.gov/erg/KALMAR/EmergencyResponseGuide-KalmarOttawa-OT2EV-2025-ICM2073281.pdf"
+  },
+  {
+    "make": "kalmar_ottawa",
+    "model": "OT2 EV",
+    "url": "https://static.nhtsa.gov/erg/KALMAR/RescueSheet-KalmarOttawa-OT2EV-2025-ICM2073329.pdf"
+  },
+  {
+    "make": "karma",
+    "model": "GS-6 (PHEV)",
+    "url": "https://static.nhtsa.gov/erg/KARMA-AUTOMOTIVE/EmergencyResponseGuide_Karma-2020-2022.pdf"
+  },
+  {
+    "make": "karma",
+    "model": "REVERO",
+    "url": "https://static.nhtsa.gov/erg/KARMA-AUTOMOTIVE/EmergencyResponseGuide_Karma-2018.pdf"
+  },
+  {
+    "make": "karma",
+    "model": "REVERO",
+    "url": "https://static.nhtsa.gov/erg/KARMA-AUTOMOTIVE/EmergencyResponseGuide_Karma_CYAN_2025_2026_C1810ASD518403.pdf"
+  },
+  {
+    "make": "kenworth",
+    "model": "K270E",
+    "url": "https://static.nhtsa.gov/erg/PACCAR/EmergencyResponseGuide-PB_KW-220EV_K270E_K370E-2021_2026_BEV_2.pdf"
+  },
+  {
+    "make": "kenworth",
+    "model": "K270E",
+    "url": "https://static.nhtsa.gov/erg/PACCAR/RescueSheet-PB_KW-220EV_K270E_K370E-2021_2026_BEV_2.pdf"
+  },
+  {
+    "make": "kenworth",
+    "model": "K370E",
+    "url": "https://static.nhtsa.gov/erg/PACCAR/EmergencyResponseGuide-Kenworth-T680_FCEV_2023.pdf"
+  },
+  {
+    "make": "kenworth",
+    "model": "L770E",
+    "url": "https://static.nhtsa.gov/erg/PACCAR/EmergencyResponseGuide-PB_KW-520EV_L770E-2024_2026_BEV_2.pdf"
+  },
+  {
+    "make": "kenworth",
+    "model": "L770E",
+    "url": "https://static.nhtsa.gov/erg/PACCAR/RescueSheet-Peterbilt_520EV-Kenworth_L770E.pdf"
+  },
+  {
+    "make": "kenworth",
+    "model": "NEXT GEN T680E (W/O E-AXLE)",
+    "url": "https://static.nhtsa.gov/erg/PACCAR/EmergencyResponseGuide-PB_KW-579EV_567EV_T680E_T880E-2025_2026_BEV_2.pdf"
+  },
+  {
+    "make": "kenworth",
+    "model": "NEXT GEN T680E (W/O E-AXLE)",
+    "url": "https://static.nhtsa.gov/erg/PACCAR/RescueSheet-PB_KW-579EV_567EV_T680E_T880E-2025_2026_BEV_2.pdf"
+  },
+  {
+    "make": "kenworth",
+    "model": "T280E",
+    "url": "https://static.nhtsa.gov/erg/PACCAR/EmergencyResponseGuide-Peterbilt_Kenworth-Medium_Duty-2025_2026_BEV_2.pdf"
+  },
+  {
+    "make": "kenworth",
+    "model": "T280E",
+    "url": "https://static.nhtsa.gov/erg/PACCAR/RescueSheet-Peterbilt_Kenworth-Medium_Duty-2025_2026_BEV_2.pdf"
+  },
+  {
+    "make": "kenworth",
+    "model": "T680E (WITH E-AXLE)",
+    "url": "https://static.nhtsa.gov/erg/PACCAR/EmergencyResponseGuide-PB_KW-579EV_T680E-2022_2026_BEV_2.pdf"
+  },
+  {
+    "make": "kenworth",
+    "model": "T680E (WITH E-AXLE)",
+    "url": "https://static.nhtsa.gov/erg/PACCAR/RescueSheet-PB_KW-579EV_T680E-2022-2026_BEV_2.pdf"
+  },
+  {
+    "make": "kia",
+    "model": "EV6",
+    "url": "https://static.nhtsa.gov/erg/KIA-CORPORATION/EmergencyResponseGuide-Kia-EV6_2022.pdf"
+  },
+  {
+    "make": "kia",
+    "model": "EV6",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/EmergencyResponseGuide-Kia-EV6-MY2026_BEV_1.pdf"
+  },
+  {
+    "make": "kia",
+    "model": "EV6",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/RescueSheet-Kia-EV6-MY2026_BEV_1.pdf"
+  },
+  {
+    "make": "kia",
+    "model": "EV9",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/EmergencyResponseGuide-Kia-EV9-MY2026_BEV_1.pdf"
+  },
+  {
+    "make": "kia",
+    "model": "EV9",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/RescueSheet-Kia-EV9-MY2026_BEV_1.pdf"
+  },
+  {
+    "make": "kia",
+    "model": "KIA CARNIVAL HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/EmergencyResponseGuide-Kia-CarnivalHEV-MY2026_HEV_1.pdf"
+  },
+  {
+    "make": "kia",
+    "model": "KIA CARNIVAL HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/RescueSheet-Kia-CarnivalHEV-MY2026_HEV_1.pdf"
+  },
+  {
+    "make": "kia",
+    "model": "NIRO EV",
+    "url": "https://static.nhtsa.gov/erg/KIA-CORPORATION/EmergencyResponseGuide-Kia-DE_NIRO_2019-2022.pdf"
+  },
+  {
+    "make": "kia",
+    "model": "NIRO EV",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/EmergencyResponseGuide-Kia-NiroEV-MY2026_BEV_1.pdf"
+  },
+  {
+    "make": "kia",
+    "model": "NIRO EV",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/RescueSheet-Kia-NiroEV-MY2026_BEV_1.pdf"
+  },
+  {
+    "make": "kia",
+    "model": "NIRO HYBRID",
+    "url": "https://static.nhtsa.gov/erg/KIA-CORPORATION/EmergencyResponseGuide-Kia-Niro_HEV_2017-2022.pdf"
+  },
+  {
+    "make": "kia",
+    "model": "NIRO HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/EmergencyResponseGuide-Kia-NiroHybrid-MY2026_HEV_1.pdf"
+  },
+  {
+    "make": "kia",
+    "model": "NIRO HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/RescueSheet-Kia-NiroHybrid-MY2026_HEV_1.pdf"
+  },
+  {
+    "make": "kia",
+    "model": "NIRO PLUG-IN HYBRID",
+    "url": "https://static.nhtsa.gov/erg/KIA-CORPORATION/EmergencyResponseGuide-Kia-D_NIRO_PHEV-2018-2022.pdf"
+  },
+  {
+    "make": "kia",
+    "model": "NIRO PLUG-IN HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/EmergencyResponseGuide-Kia-NiroPlugInHybrid-MY2026_PHEV_1.pdf"
+  },
+  {
+    "make": "kia",
+    "model": "NIRO PLUG-IN HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/RescueSheet-Kia-NiroPlugInHybrid-MY2026_PHEV_1.pdf"
+  },
+  {
+    "make": "kia",
+    "model": "OPTIMA HYBRID",
+    "url": "https://static.nhtsa.gov/erg/KIA-CORPORATION/EmergencyResponseGuide-Kia-TF_OPTIMA_Hybrid-2011-2016.pdf"
+  },
+  {
+    "make": "kia",
+    "model": "OPTIMA HYBRID",
+    "url": "https://static.nhtsa.gov/erg/KIA-CORPORATION/EmergencyResponseGuide-Kia-JF_OPTIMA_Hybrid-2017-2020.pdf"
+  },
+  {
+    "make": "kia",
+    "model": "OPTIMA PLUG-IN HYBRID",
+    "url": "https://static.nhtsa.gov/erg/KIA-CORPORATION/EmergencyResponseGuide-Kia-JF_OPTIMA_PHEV-2017-2020.pdf"
+  },
+  {
+    "make": "kia",
+    "model": "SORENTO HYBRID",
+    "url": "https://static.nhtsa.gov/erg/KIA-CORPORATION/EmergencyResponseGuide-Kia-MQ4_SORENTO_Hybrid-2021.pdf"
+  },
+  {
+    "make": "kia",
+    "model": "SORENTO HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/EmergencyResponseGuide-Kia-SorentoHybrid-MY2026_HEV_1.pdf"
+  },
+  {
+    "make": "kia",
+    "model": "SORENTO HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/RescueSheet-Kia-SorentoHybrid-MY2026_HEV_1.pdf"
+  },
+  {
+    "make": "kia",
+    "model": "SORENTO PLUG-IN HYBRID",
+    "url": "https://static.nhtsa.gov/erg/KIA-CORPORATION/EmergencyResponseGuide-Kia-MQ4_SORENTO_PHEV-2022.pdf"
+  },
+  {
+    "make": "kia",
+    "model": "SORENTO PLUG-IN HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/EmergencyResponseGuide-Kia-SorentoPlugInHybrid-MY2026_PHEV_1.pdf"
+  },
+  {
+    "make": "kia",
+    "model": "SORENTO PLUG-IN HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/RescueSheet-Kia-SorentoPlugInHybrid-MY2026_PHEV_1.pdf"
+  },
+  {
+    "make": "kia",
+    "model": "SOUL EV",
+    "url": "https://static.nhtsa.gov/erg/KIA-CORPORATION/EmergencyResponseGuide-Kia-PS_SOUL_EV-2015-2019.pdf"
+  },
+  {
+    "make": "kia",
+    "model": "SOUL EV",
+    "url": "https://static.nhtsa.gov/erg/KIA-CORPORATION/EmergencyResponseGuide-Kia-SOUL_EV_SK3-2020.pdf"
+  },
+  {
+    "make": "kia",
+    "model": "SPORTAGE HYBRID",
+    "url": "https://static.nhtsa.gov/erg/KIA-CORPORATION/EmergencyResponseGuide-Kia-NQ5_SPORTAGE_Hybrid-2023.pdf"
+  },
+  {
+    "make": "kia",
+    "model": "SPORTAGE HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/EmergencyResponseGuide-Kia-SportageHybrid-MY2026_HEV_1.pdf"
+  },
+  {
+    "make": "kia",
+    "model": "SPORTAGE HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/RescueSheet-Kia-SportageHybrid-MY2026_HEV_1.pdf"
+  },
+  {
+    "make": "kia",
+    "model": "SPORTAGE PLUG-IN HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/EmergencyResponseGuide-Kia-SportagePlugInHybrid-MY2026_PHEV_1.pdf"
+  },
+  {
+    "make": "kia",
+    "model": "SPORTAGE PLUG-IN HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/RescueSheet-Kia-SportagePlugInHybrid-MY2026_PHEV_1.pdf"
+  },
+  {
+    "make": "lamborghini",
+    "model": "REVUELTO",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Revuelto2025.pdf"
+  },
+  {
+    "make": "lamborghini",
+    "model": "REVUELTO",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/RescueSheet-Revuleto.pdf"
+  },
+  {
+    "make": "lamborghini",
+    "model": "TEMERARIO",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Temerario2025.pdf"
+  },
+  {
+    "make": "lamborghini",
+    "model": "TEMERARIO",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/RescueSheet-TEMERARIO.pdf"
+  },
+  {
+    "make": "lamborghini",
+    "model": "URUS SE",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-UrusSE2025.pdf"
+  },
+  {
+    "make": "lamborghini",
+    "model": "URUS SE",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/RescueSheet-UrusSE.pdf"
+  },
+  {
+    "make": "land_rover",
+    "model": "RANGE ROVER",
+    "url": "https://static.nhtsa.gov/erg/JAGUAR-LAND-ROVER-NORTH-AMERICA/EmergencyResponseGuide-LandRover-RangeRoverPHEV-2024Onwards_PHEV_1.pdf"
+  },
+  {
+    "make": "land_rover",
+    "model": "RANGE ROVER",
+    "url": "https://static.nhtsa.gov/erg/JAGUAR-LAND-ROVER-NORTH-AMERICA/RescueSheet-LandRover-RangeRoverPHEV-2024Onwards_PHEV_1.pdf"
+  },
+  {
+    "make": "land_rover",
+    "model": "RANGE ROVER SPORT",
+    "url": "https://static.nhtsa.gov/erg/JAGUAR-LAND-ROVER-NORTH-AMERICA/EmergencyResponseGuide-LandRover-RangeRoverSportPHEV-2024Onwards_PHEV_1.pdf"
+  },
+  {
+    "make": "land_rover",
+    "model": "RANGE ROVER SPORT",
+    "url": "https://static.nhtsa.gov/erg/JAGUAR-LAND-ROVER-NORTH-AMERICA/RescueSheet-LandRover-RangeRoverSportPHEV-2024Onwards_PHEV_1.pdf"
+  },
+  {
+    "make": "lexus",
+    "model": "CT200H",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/EmergencyResponseGuide-Lexus-CT200h-2011-2013.pdf"
+  },
+  {
+    "make": "lexus",
+    "model": "CT200H",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Lexus-CT200h-2014-2017.pdf"
+  },
+  {
+    "make": "lexus",
+    "model": "ES300H",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/EmergencyResponseGuide-Lexus-ES300h-2013-2015.pdf"
+  },
+  {
+    "make": "lexus",
+    "model": "ES300H",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Lexus-ES300h-2016-2018.pdf"
+  },
+  {
+    "make": "lexus",
+    "model": "ES300H",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Lexus-ES300h-2019-2024.pdf"
+  },
+  {
+    "make": "lexus",
+    "model": "GS450H",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/EmergencyResponseGuide-Lexus-GS450h-2007-2011.pdf"
+  },
+  {
+    "make": "lexus",
+    "model": "GS450H",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/EmergencyResponseGuide-Lexus-GS450h-2013-2015.pdf"
+  },
+  {
+    "make": "lexus",
+    "model": "GS450H",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Lexus-GS450h-2016-2018.pdf"
+  },
+  {
+    "make": "lexus",
+    "model": "HS250H",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/EmergencyResponseGuide-Lexus-HS250h-2010-2012.pdf"
+  },
+  {
+    "make": "lexus",
+    "model": "LS500H",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Lexus-LC500h-2018-2024.pdf"
+  },
+  {
+    "make": "lexus",
+    "model": "LS600HL",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/EmergencyResponseGuide-Lexus-LS600h-2008-2016.pdf"
+  },
+  {
+    "make": "lexus",
+    "model": "LX700H",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/EmergencyResponseGuide_Lexus_LX700h_Hybrid_2025.pdf"
+  },
+  {
+    "make": "lexus",
+    "model": "NX300H",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Lexus-NX300h-2015-2021.pdf"
+  },
+  {
+    "make": "lexus",
+    "model": "NX350H",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Lexus-NX350h-2022-2024.pdf"
+  },
+  {
+    "make": "lexus",
+    "model": "NX350H",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Lexus-NX350H-2026.pdf"
+  },
+  {
+    "make": "lexus",
+    "model": "NX450H+",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Lexus-NX450H-2026.pdf"
+  },
+  {
+    "make": "lexus",
+    "model": "NX450H+",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Lexus-NX450h-Plus-2022-2025.pdf"
+  },
+  {
+    "make": "lexus",
+    "model": "RX350H",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Lexus-RX350h-RX500h-2023-2024.pdf"
+  },
+  {
+    "make": "lexus",
+    "model": "RX350H",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Lexus-RX350h-RX500h-Model-2025.pdf"
+  },
+  {
+    "make": "lexus",
+    "model": "RX350H",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Lexus-RX350h-RX500h-2026.pdf"
+  },
+  {
+    "make": "lexus",
+    "model": "RX450H",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/EmergencyResponseGuide-Lexus-RX450h-2010-2015.pdf"
+  },
+  {
+    "make": "lexus",
+    "model": "RX450H",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Lexus-RX450h-2016-2022.pdf"
+  },
+  {
+    "make": "lexus",
+    "model": "RX450H",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Lexus-RX450h-2024.pdf"
+  },
+  {
+    "make": "lexus",
+    "model": "RX450H",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Lexus-RX450h-2025.pdf"
+  },
+  {
+    "make": "lexus",
+    "model": "RZ300E",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Lexus-RZ300e-2024.pdf"
+  },
+  {
+    "make": "lexus",
+    "model": "RZ350E",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Lexus-RZ350e-2026.pdf"
+  },
+  {
+    "make": "lexus",
+    "model": "RZ450E",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Lexus-RZ450e-2023-2024.pdf"
+  },
+  {
+    "make": "lexus",
+    "model": "RZ450E",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Toyota-RZ450e-2026.pdf"
+  },
+  {
+    "make": "lexus",
+    "model": "RZ550E",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Toyota-RZ550e-2026.pdf"
+  },
+  {
+    "make": "lexus",
+    "model": "TX500H",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Lexus-TX500h-2024.pdf"
+  },
+  {
+    "make": "lexus",
+    "model": "TX500H",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Lexus-TX500H-2026.pdf"
+  },
+  {
+    "make": "lexus",
+    "model": "TX550H+",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Lexus-TX550H-2026.pdf"
+  },
+  {
+    "make": "lexus",
+    "model": "UX250H",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Lexus-UX250h-UX300h-2019-2024.pdf"
+  },
+  {
+    "make": "lightning",
+    "model": "CARGO EXPRESS GM4500 PLATFORM",
+    "url": "https://static.nhtsa.gov/erg/LIGHTNING-EMOTORS/RescueSheet-Lightning-eMotors-CargoExpress-4500-2022-20XX.pdf"
+  },
+  {
+    "make": "lightning",
+    "model": "CLASS 3, 120-KWH FORD T-350 HD PLATFORM",
+    "url": "https://static.nhtsa.gov/erg/LIGHTNING-EMOTORS/RescueSheet-Lightning-eMotors-Class3-120kWh-T350HDPlatform-2020-20XX.pdf"
+  },
+  {
+    "make": "lightning",
+    "model": "CLASS 3, 80-KWH FORD T-350 HD PLATFORM",
+    "url": "https://static.nhtsa.gov/erg/LIGHTNING-EMOTORS/RescueSheet-Lightning-eMotors-Class3-80kWh-BusDoor-T350-HDPlatform-2016-20XX.pdf"
+  },
+  {
+    "make": "lightning",
+    "model": "FORD E-450 PLATFORM",
+    "url": "https://static.nhtsa.gov/erg/LIGHTNING-EMOTORS/RescueSheet-Lightning-eMotors-TypeA-SchoolBus-E450Platform-2015-20XX.pdf"
+  },
+  {
+    "make": "lincoln",
+    "model": "AVIATOR (PHEV)",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Lincoln-AVIATOR-2020.pdf"
+  },
+  {
+    "make": "lincoln",
+    "model": "AVIATOR (PHEV)",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Lincoln-AVIATOR-2022.pdf"
+  },
+  {
+    "make": "lincoln",
+    "model": "AVIATOR (PHEV)",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide_FordLincolnAVIATOR_PHEV_2021_2024.pdf"
+  },
+  {
+    "make": "lincoln",
+    "model": "CORSAIR",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Lincoln-CorsairPHEV-2020-2025.pdf"
+  },
+  {
+    "make": "lincoln",
+    "model": "CORSAIR",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/RescueSheet-Lincoln-Corsair-2020-2025.pdf"
+  },
+  {
+    "make": "lincoln",
+    "model": "CORSAIR",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Lincoln-CorsairPHEV-2026.pdf"
+  },
+  {
+    "make": "lincoln",
+    "model": "CORSAIR",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/RescueSheet-Lincoln-Corsair-2026.pdf"
+  },
+  {
+    "make": "lincoln",
+    "model": "MKZ HYBRID (HEV)",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide_Lincoln_MKZ_HEV_2011-2012.pdf"
+  },
+  {
+    "make": "lincoln",
+    "model": "MKZ HYBRID (HEV)",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Lincoln-MKZ_Hybrid-2012.pdf"
+  },
+  {
+    "make": "lincoln",
+    "model": "MKZ HYBRID (HEV)",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Lincoln-MKZ_Hybrid-2013.pdf"
+  },
+  {
+    "make": "lincoln",
+    "model": "MKZ HYBRID (HEV)",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide_Lincoln_MKZ_HEV_2013-2018.pdf"
+  },
+  {
+    "make": "lincoln",
+    "model": "MKZ HYBRID (HEV)",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Lincoln-MKZ_Hybrid-2014.pdf"
+  },
+  {
+    "make": "lincoln",
+    "model": "MKZ HYBRID (HEV)",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide_MKZ_HEV_2015_2019_1-28-19.pdf"
+  },
+  {
+    "make": "lincoln",
+    "model": "MKZ HYBRID (HEV)",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Lincoln-Hybrid_Fusion_Milan_MKZP65-2011.pdf"
+  },
+  {
+    "make": "lincoln",
+    "model": "NAUTILUS",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Lincoln-Nautilus-2024-2025.pdf"
+  },
+  {
+    "make": "lincoln",
+    "model": "NAUTILUS",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/RescueSheet-Lincoln-Nautilus-2024-2025.pdf"
+  },
+  {
+    "make": "lincoln",
+    "model": "NAUTILUS",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Lincoln-Nautilus-2026.pdf"
+  },
+  {
+    "make": "lincoln",
+    "model": "NAUTILUS",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/RescueSheet-Lincoln-Nautilus-2026.pdf"
+  },
+  {
+    "make": "lotus",
+    "model": "EVIJA",
+    "url": "https://static.nhtsa.gov/erg/LOTUS-CARS-USA/EmergencyResponseGuide_Handbook_Evija_2024_2025_2026_BEV_1.pdf"
+  },
+  {
+    "make": "lotus",
+    "model": "EVIJA",
+    "url": "https://static.nhtsa.gov/erg/LOTUS-CARS-LIMITED/RescueSheet_EVIJA_2024_2025_2026_BEV_1.pdf"
+  },
+  {
+    "make": "lucid",
+    "model": "AIR",
+    "url": "https://static.nhtsa.gov/erg/LUCID-MOTORS-USA/EmergencyResponseGuide-Lucid-Air-2022-2026.pdf"
+  },
+  {
+    "make": "lucid",
+    "model": "AIR",
+    "url": "https://static.nhtsa.gov/erg/LUCID-MOTORS-USA/RescueSheet-Lucid-Air-2022-2026_BEV_1.pdf"
+  },
+  {
+    "make": "lucid",
+    "model": "GRAVITY",
+    "url": "https://static.nhtsa.gov/erg/LUCID-MOTORS-USA/EmergencyResponseGuide-Lucid-Gravity-2025-2026.pdf"
+  },
+  {
+    "make": "lucid",
+    "model": "GRAVITY",
+    "url": "https://static.nhtsa.gov/erg/LUCID-MOTORS-USA/RescueSheet-Lucid-Gravity-2025-2026_BEV_1.pdf"
+  },
+  {
+    "make": "mack",
+    "model": "LRBE",
+    "url": "https://static.nhtsa.gov/erg/VOLVO-GROUP/EmergencyResponseGuide-Mack-LRBE-2021-2026.pdf"
+  },
+  {
+    "make": "mack",
+    "model": "LRBE",
+    "url": "https://static.nhtsa.gov/erg/VOLVO-GROUP/RescueSheet-Mack-LRBE-2021-2026.pdf"
+  },
+  {
+    "make": "mack",
+    "model": "MACK MDE6",
+    "url": "https://static.nhtsa.gov/erg/VOLVO-GROUP/EmergencyResponseGuide-Mack-MMD-2024-2026.pdf"
+  },
+  {
+    "make": "mack",
+    "model": "MACK MDE6",
+    "url": "https://static.nhtsa.gov/erg/VOLVO-GROUP/RescueSheet-Mack-MMD-2024-2026.pdf"
+  },
+  {
+    "make": "mazda",
+    "model": "CX-50",
+    "url": "https://static.nhtsa.gov/erg/MAZDA-NORTH-AMERICAN-OPERATIONS/EmergencyResponseGuide_MAZDA_CX-50_HEV_1.pdf"
+  },
+  {
+    "make": "mazda",
+    "model": "CX-50",
+    "url": "https://static.nhtsa.gov/erg/MAZDA-NORTH-AMERICAN-OPERATIONS/RescueSheet_MAZDA_CX-50_HEV_1.pdf"
+  },
+  {
+    "make": "mazda",
+    "model": "CX-70 MHEV",
+    "url": "https://static.nhtsa.gov/erg/MAZDA-NORTH-AMERICAN-OPERATIONS/EmergencyResponseGuide_MAZDA_CX-70_MHEV_HEV_1.pdf"
+  },
+  {
+    "make": "mazda",
+    "model": "CX-70 MHEV",
+    "url": "https://static.nhtsa.gov/erg/MAZDA-NORTH-AMERICAN-OPERATIONS/RescueSheet_MAZDA_CX-70_MHEV_HEV_1.pdf"
+  },
+  {
+    "make": "mazda",
+    "model": "CX-70 PHEV",
+    "url": "https://static.nhtsa.gov/erg/MAZDA-NORTH-AMERICAN-OPERATIONS/EmergencyResponseGuide_MAZDA_CX-70_PHEV_PHEV_1.pdf"
+  },
+  {
+    "make": "mazda",
+    "model": "CX-70 PHEV",
+    "url": "https://static.nhtsa.gov/erg/MAZDA-NORTH-AMERICAN-OPERATIONS/RescueSheet_MAZDA_CX-70_PHEV_PHEV_1.pdf"
+  },
+  {
+    "make": "mazda",
+    "model": "CX-90 MHEV",
+    "url": "https://static.nhtsa.gov/erg/MAZDA-NORTH-AMERICAN-OPERATIONS/EmergencyResponseGuide_MAZDA_CX-90_MHEV_HEV_1.pdf"
+  },
+  {
+    "make": "mazda",
+    "model": "CX-90 MHEV",
+    "url": "https://static.nhtsa.gov/erg/MAZDA-NORTH-AMERICAN-OPERATIONS/RescueSheet_MAZDA_CX-90_MHEV_HEV_1.pdf"
+  },
+  {
+    "make": "mazda",
+    "model": "CX-90 PHEV",
+    "url": "https://static.nhtsa.gov/erg/MAZDA-NORTH-AMERICAN-OPERATIONS/EmergencyResponseGuide_MAZDA_CX-90_MHEV_PHEV_PHEV_1.pdf"
+  },
+  {
+    "make": "mazda",
+    "model": "CX-90 PHEV",
+    "url": "https://static.nhtsa.gov/erg/MAZDA-NORTH-AMERICAN-OPERATIONS/RescueSheet_MAZDA_CX-90_PHEV_PHEV_1.pdf"
+  },
+  {
+    "make": "mazda",
+    "model": "MX-30 EV",
+    "url": "https://static.nhtsa.gov/erg/MAZDA-NORTH-AMERICAN-OPERATIONS/EmergencyResponseGuide_MAZDA_MX-30_PHEV_BEV_1.pdf"
+  },
+  {
+    "make": "mazda",
+    "model": "MX-30 EV",
+    "url": "https://static.nhtsa.gov/erg/MAZDA-NORTH-AMERICAN-OPERATIONS/RescueSheet_MAZDA_MX-30_22MY_BEV_1.pdf"
+  },
+  {
+    "make": "mazda",
+    "model": "MX-30 EV",
+    "url": "https://static.nhtsa.gov/erg/MAZDA-NORTH-AMERICAN-OPERATIONS/RescueSheet_MAZDA_MX-30_23MY_24MY_BEV_1.pdf"
+  },
+  {
+    "make": "mazda",
+    "model": "TRIBUTE HYBRID",
+    "url": "https://static.nhtsa.gov/erg/MAZDA-NORTH-AMERICAN-OPERATIONS/EmergencyResponseGuide_MAZDA-Tribute_HEV_1.pdf"
+  },
+  {
+    "make": "mclaren",
+    "model": "ARTURA COUPE",
+    "url": "https://static.nhtsa.gov/erg/MCLAREN-AUTOMOTIVE/EmergencyResponseGuide-McLaren-12-16-18-23_PHEV_3.pdf"
+  },
+  {
+    "make": "mclaren",
+    "model": "ARTURA COUPE",
+    "url": "https://static.nhtsa.gov/erg/MCLAREN-AUTOMOTIVE/RescueSheet-McLaren-Artura_Coupe-MY22_PHEV_1.pdf"
+  },
+  {
+    "make": "mclaren",
+    "model": "ARTURA SPIDER",
+    "url": "https://static.nhtsa.gov/erg/MCLAREN-AUTOMOTIVE/EmergencyResponseGuide-McLaren-12-16-18-23_PHEV_4.pdf"
+  },
+  {
+    "make": "mclaren",
+    "model": "ARTURA SPIDER",
+    "url": "https://static.nhtsa.gov/erg/MCLAREN-AUTOMOTIVE/RescueSheet-McLaren-Artura_Spider-MY22_PHEV_1.pdf"
+  },
+  {
+    "make": "mclaren",
+    "model": "P1",
+    "url": "https://static.nhtsa.gov/erg/MCLAREN-AUTOMOTIVE/EmergencyResponseGuide-McLaren-12-16-18-23_PHEV_1.pdf"
+  },
+  {
+    "make": "mclaren",
+    "model": "P1",
+    "url": "https://static.nhtsa.gov/erg/MCLAREN-AUTOMOTIVE/RescueSheet-McLaren-P1-all_PHEV_1.pdf"
+  },
+  {
+    "make": "mclaren",
+    "model": "SPEEDTAIL",
+    "url": "https://static.nhtsa.gov/erg/MCLAREN-AUTOMOTIVE/EmergencyResponseGuide-McLaren-12-16-18-23_PHEV_2.pdf"
+  },
+  {
+    "make": "mclaren",
+    "model": "SPEEDTAIL",
+    "url": "https://static.nhtsa.gov/erg/MCLAREN-AUTOMOTIVE/RescueSheet-McLaren-Speedtail-all_PHEV_1.pdf"
+  },
+  {
+    "make": "mcneilus_truck_&_manufacturing",
+    "model": "VOLTERRA ZFL",
+    "url": "https://static.nhtsa.gov/erg/OSHKOSH-CORPORATION/EmergencyResponseGuide-McNeilus-Volterra-ZFL-2025_BEV_1.pdf"
+  },
+  {
+    "make": "mcneilus_truck_&_manufacturing",
+    "model": "VOLTERRA ZFL",
+    "url": "https://static.nhtsa.gov/erg/OSHKOSH-CORPORATION/RescueSheet-McNeilus-Volterra-ZFL-2025_BEV_1.pdf"
+  },
+  {
+    "make": "mcneilus_truck_&_manufacturing",
+    "model": "VOLTERRA ZSL",
+    "url": "https://static.nhtsa.gov/erg/OSHKOSH-CORPORATION/EmergencyResponseGuide-McNeilus-Volterra-ZSL-2025_BEV_1.pdf"
+  },
+  {
+    "make": "mcneilus_truck_&_manufacturing",
+    "model": "VOLTERRA ZSL",
+    "url": "https://static.nhtsa.gov/erg/OSHKOSH-CORPORATION/RescueSheet-McNeilus-Volterra-ZSL-2025_BEV_1.pdf"
+  },
+  {
+    "make": "mercedes_benz_vans",
+    "model": "AMG C63 S EPERFORMANCE",
+    "url": "https://static.nhtsa.gov/erg/MERCEDES-BENZ/EmergencyResponseGuide-Mercedes-Benz-2026-PHEV_PHEV_1.pdf"
+  },
+  {
+    "make": "mercedes_benz_vans",
+    "model": "AMG C63 S EPERFORMANCE",
+    "url": "https://static.nhtsa.gov/erg/MERCEDES-BENZ/RescueSheet-Mercedes-AMGC63SePerformance-2026_PHEV_1.pdf"
+  },
+  {
+    "make": "mercedes_benz_vans",
+    "model": "AMG E53E 4MATIC SEDAN",
+    "url": "https://static.nhtsa.gov/erg/MERCEDES-BENZ/RescueSheet-Mercedes-AMGE53Sedan-2026_PHEV_1.pdf"
+  },
+  {
+    "make": "mercedes_benz_vans",
+    "model": "AMG GT63S EPERFORMANCE 4-DOOR COUPE",
+    "url": "https://static.nhtsa.gov/erg/MERCEDES-BENZ/RescueSheet-Mercedes-AMGGT63SePerformance4Door-2026_PHEV_1.pdf"
+  },
+  {
+    "make": "mercedes_benz_vans",
+    "model": "AMG S63 EPERFORMANCE",
+    "url": "https://static.nhtsa.gov/erg/MERCEDES-BENZ/RescueSheet-Mercedes-AMGS63ePerformance-2026_PHEV_1.pdf"
+  },
+  {
+    "make": "mercedes_benz_vans",
+    "model": "EQE320 4MATIC SUV",
+    "url": "https://static.nhtsa.gov/erg/MERCEDES-BENZ/RescueSheet-Mercedes-EQE3204MATICSUV-2026_BEV_1.pdf"
+  },
+  {
+    "make": "mercedes_benz_vans",
+    "model": "EQS450 4MATIC SEDAN",
+    "url": "https://static.nhtsa.gov/erg/MERCEDES-BENZ/RescueSheet-Mercedes-EQS4504MATICSedan-2026_BEV_1.pdf"
+  },
+  {
+    "make": "mercedes_benz_vans",
+    "model": "ESPRINTER",
+    "url": "https://static.nhtsa.gov/erg/MERCEDES-BENZ/EmergencyResponseGuide-MB-eSprinter-2024.pdf"
+  },
+  {
+    "make": "mercedes_benz_vans",
+    "model": "ESPRINTER",
+    "url": "https://static.nhtsa.gov/erg/MERCEDES-BENZ/RescueSheet-MB-eSprinter-2024.pdf"
+  },
+  {
+    "make": "mercedes_benz_vans",
+    "model": "G580E",
+    "url": "https://static.nhtsa.gov/erg/MERCEDES-BENZ/RescueSheet-Mercedes-G580EQSUV-2026_BEV_1.pdf"
+  },
+  {
+    "make": "mercedes_benz_vans",
+    "model": "MAYBACH EQS680 4MATIC SUV",
+    "url": "https://static.nhtsa.gov/erg/MERCEDES-BENZ/RescueSheet-Mercedes-MaybachEQS6804MATICSUV-2026_BEV_1.pdf"
+  },
+  {
+    "make": "mercedes-benz_cars",
+    "model": "AMG EQE SEDAN",
+    "url": "https://static.nhtsa.gov/erg/MERCEDES-BENZ/RescueSheet-Mercedes-AMGEQE534MATICPlusSedan-2026_BEV_1.pdf"
+  },
+  {
+    "make": "mercedes-benz_cars",
+    "model": "CLA250+ COUPE",
+    "url": "https://static.nhtsa.gov/erg/MERCEDES-BENZ/RescueSheet-Mercedes-CLA250PlusCoupe-2025_BEV_1.pdf"
+  },
+  {
+    "make": "mercedes-benz_cars",
+    "model": "EQB250",
+    "url": "https://static.nhtsa.gov/erg/MERCEDES-BENZ/RescueSheet-Mercedes-EQB250SUV-2025_BEV_1.pdf"
+  },
+  {
+    "make": "mercedes-benz_cars",
+    "model": "EQE350 4MATIC SEDAN",
+    "url": "https://static.nhtsa.gov/erg/MERCEDES-BENZ/RescueSheet-Mercedes-EQE3504MATICSedan-2026_BEV_1.pdf"
+  },
+  {
+    "make": "mercedes-benz_cars",
+    "model": "EQE350 SEDAN",
+    "url": "https://static.nhtsa.gov/erg/MERCEDES-BENZ/RescueSheet-Mercedes-EQE350Sedan-2026_BEV_1.pdf"
+  },
+  {
+    "make": "mercedes-benz_cars",
+    "model": "EQE500 4MATIC SEDAN",
+    "url": "https://static.nhtsa.gov/erg/MERCEDES-BENZ/RescueSheet-Mercedes-EQE5004MATICSedan-2025_BEV_1.pdf"
+  },
+  {
+    "make": "mercedes-benz_cars",
+    "model": "EQS450 4MATIC SUV",
+    "url": "https://static.nhtsa.gov/erg/MERCEDES-BENZ/RescueSheet-Mercedes-EQS4504MATICSUV-2026_BEV_1.pdf"
+  },
+  {
+    "make": "mercedes-benz_cars",
+    "model": "EQS450+ SUV",
+    "url": "https://static.nhtsa.gov/erg/MERCEDES-BENZ/RescueSheet-Mercedes-EQS450PlusSUV-2025_BEV_1.pdf"
+  },
+  {
+    "make": "mercedes-benz_cars",
+    "model": "EQS580 4MATIC SUV",
+    "url": "https://static.nhtsa.gov/erg/MERCEDES-BENZ/RescueSheet-Mercedes-EQS5804MATICSUV-2026_BEV_1.pdf"
+  },
+  {
+    "make": "mercury",
+    "model": "MARINER",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-MercuryMariner_Hybrid-2006-2007.pdf"
+  },
+  {
+    "make": "mercury",
+    "model": "MARINER",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide_MercuryMariner_Hybrid-2008.pdf"
+  },
+  {
+    "make": "mercury",
+    "model": "MARINER",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-MercuryMariner_Hybrid-2009.pdf"
+  },
+  {
+    "make": "mercury",
+    "model": "MARINER",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-MercuryMariner_Hybrid-2010.pdf"
+  },
+  {
+    "make": "mercury",
+    "model": "MARINER",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-MercuryMarinerHybrid-2011.pdf"
+  },
+  {
+    "make": "mercury",
+    "model": "MILAN",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-MercuryMilan_Hybrid-2010.pdf"
+  },
+  {
+    "make": "mini",
+    "model": "COUNTRYMAN SE",
+    "url": "https://static.nhtsa.gov/erg/BMW/RescueSheet-MINICountrymanSE-2026_BEV_1.pdf"
+  },
+  {
+    "make": "mini",
+    "model": "COUNTRYMAN SE",
+    "url": "https://static.nhtsa.gov/erg/BMW/EmergencyResponseGuide-BMWGroup-MINI-2026_BEV_1.pdf"
+  },
+  {
+    "make": "mitsubishi",
+    "model": "I-MIEV",
+    "url": "https://static.nhtsa.gov/erg/MITSUBISHI-MOTORS/EmergencyResponseGuide-Mitsubishi-i-MiEV-EV-2012-2017.pdf"
+  },
+  {
+    "make": "mitsubishi",
+    "model": "OUTLANDER PHEV",
+    "url": "https://static.nhtsa.gov/erg/MITSUBISHI-MOTORS/EmergencyResponseGuide-Mitsubishi-OutlanderPHEV-2018-2022.pdf"
+  },
+  {
+    "make": "mitsubishi",
+    "model": "OUTLANDER PHEV",
+    "url": "https://static.nhtsa.gov/erg/MITSUBISHI-MOTORS/EmergencyResponseGuide_Mitsubishi_newer_PHEV_2023_MMNA.pdf"
+  },
+  {
+    "make": "motiv",
+    "model": "EPIC 4 ELECTRIC",
+    "url": "https://static.nhtsa.gov/erg/MOTIVE-POWER-SYSTEMS,-INC./EmergencyResponseGuide_EPIC4_2021-2025.pdf"
+  },
+  {
+    "make": "motiv",
+    "model": "EPIC 4 ELECTRIC",
+    "url": "https://static.nhtsa.gov/erg/MOTIVE-POWER-SYSTEMS,-INC./RescueSheet_EPIC4_2021-2025.pdf"
+  },
+  {
+    "make": "motiv",
+    "model": "EPIC F-53 ELECTRIC",
+    "url": "https://static.nhtsa.gov/erg/MOTIV/EmergencyResponseGuide_EPIC-F-59_EPIC-F-53_2020-2023.pdf"
+  },
+  {
+    "make": "motiv",
+    "model": "EPIC S ELECTRIC",
+    "url": "https://static.nhtsa.gov/erg/MOTIVE-POWER-SYSTEMS,-INC./EmergencyResponseGuide_EPIC-S_EPIC-SL-2023-2024.pdf"
+  },
+  {
+    "make": "motiv",
+    "model": "EPIC4",
+    "url": "https://static.nhtsa.gov/erg/MOTIVE-POWER-SYSTEMS,-INC./EmergencyResponseGuide_EPIC4_2026_BEV_1.pdf"
+  },
+  {
+    "make": "motiv",
+    "model": "EPIC4",
+    "url": "https://static.nhtsa.gov/erg/MOTIVE-POWER-SYSTEMS,-INC./RescueSheet_EPIC4_2026_BEV_1.pdf"
+  },
+  {
+    "make": "motiv",
+    "model": "S",
+    "url": "https://static.nhtsa.gov/erg/MOTIVE-POWER-SYSTEMS,-INC./EmergencyResponseGuide_S_SL_2025-2026.pdf"
+  },
+  {
+    "make": "motiv",
+    "model": "S",
+    "url": "https://static.nhtsa.gov/erg/MOTIVE-POWER-SYSTEMS,-INC./RescueSheet_S_SL_2025-2026.pdf"
+  },
+  {
+    "make": "mullen",
+    "model": "ONE",
+    "url": "https://static.nhtsa.gov/erg/BOLLINGER-INNOVATIONS-INC/EmergencyResponseGuide_Bollinger_Innovations_ONE_MY2025_V6.pdf"
+  },
+  {
+    "make": "mullen",
+    "model": "ONE",
+    "url": "https://static.nhtsa.gov/erg/BOLLINGER-INNOVATIONS-INC/RescueSheet_Bollinger_Innovations_ONE_MY2025_V1_BEV_1.pdf"
+  },
+  {
+    "make": "mullen",
+    "model": "THREE",
+    "url": "https://static.nhtsa.gov/erg/BOLLINGER-INNOVATIONS-INC/EmergencyResponseGuide_Bollinger_Innovations_THREE_MY2025_V1.pdf"
+  },
+  {
+    "make": "new_flyer",
+    "model": "XCELSIOR CHARGE FC\u2122 35 FT.",
+    "url": "https://static.nhtsa.gov/erg/NFI-GROUP/EmergencyResponseGuide-XCELSIOR-HYDROGEN-ELECTRIC-40FT-TRANSITBUS.pdf"
+  },
+  {
+    "make": "new_flyer",
+    "model": "XCELSIOR CHARGE FC\u2122 60 FT.",
+    "url": "https://static.nhtsa.gov/erg/NFI-GROUP/EmergencyResponseGuide-XCELSIOR-HYDROGEN-ELECTRIC-60FT-TRANSITBUS.pdf"
+  },
+  {
+    "make": "new_flyer",
+    "model": "XCELSIOR CHARGE NG\u2122 35 FT.",
+    "url": "https://static.nhtsa.gov/erg/NFI-GROUP/EmergencyResponseGuide-XCELSIOR-ELECTRIC-35-40FT-TRASITBUS-REVB.pdf"
+  },
+  {
+    "make": "new_flyer",
+    "model": "XDE35",
+    "url": "https://static.nhtsa.gov/erg/NFI-GROUP/EmergencyResponseGuide-NewFlyer-XDE35-2025_HEV_1.pdf"
+  },
+  {
+    "make": "new_flyer",
+    "model": "XDE35",
+    "url": "https://static.nhtsa.gov/erg/NFI-GROUP/RescueSheet-NewFlyer-XDE35-2025_HEV_1.pdf"
+  },
+  {
+    "make": "new_flyer",
+    "model": "XDE40",
+    "url": "https://static.nhtsa.gov/erg/NFI-GROUP/EmergencyResponseGuide-NewFlyer-XDE40-2025_HEV_1.pdf"
+  },
+  {
+    "make": "new_flyer",
+    "model": "XDE40",
+    "url": "https://static.nhtsa.gov/erg/NFI-GROUP/RescueSheet-NewFlyer-XDE40-2025_HEV_1.pdf"
+  },
+  {
+    "make": "new_flyer",
+    "model": "XDE60",
+    "url": "https://static.nhtsa.gov/erg/NFI-GROUP/EmergencyResponseGuide-NewFlyer-XDE60-2025_HEV_1.pdf"
+  },
+  {
+    "make": "new_flyer",
+    "model": "XDE60",
+    "url": "https://static.nhtsa.gov/erg/NFI-GROUP/RescueSheet-NewFlyer-XDE60-2025_HEV_1.pdf"
+  },
+  {
+    "make": "new_flyer",
+    "model": "XE35",
+    "url": "https://static.nhtsa.gov/erg/NFI-GROUP/EmergencyResponseGuide-NewFlyer-XE35-2025_BEV_1.pdf"
+  },
+  {
+    "make": "new_flyer",
+    "model": "XE35",
+    "url": "https://static.nhtsa.gov/erg/NFI-GROUP/RescueSheet-NewFlyer-XE35-2025_BEV_1.pdf"
+  },
+  {
+    "make": "new_flyer",
+    "model": "XE40",
+    "url": "https://static.nhtsa.gov/erg/NFI-GROUP/EmergencyResponseGuide-NewFlyer-XE40-2025_BEV_1.pdf"
+  },
+  {
+    "make": "new_flyer",
+    "model": "XE40",
+    "url": "https://static.nhtsa.gov/erg/NFI-GROUP/RescueSheet-NewFlyer-XE40-2025_BEV_1.pdf"
+  },
+  {
+    "make": "new_flyer",
+    "model": "XE60",
+    "url": "https://static.nhtsa.gov/erg/NFI-GROUP/EmergencyResponseGuide-NewFlyer-XE60-2025_BEV_1.pdf"
+  },
+  {
+    "make": "new_flyer",
+    "model": "XE60",
+    "url": "https://static.nhtsa.gov/erg/NFI-GROUP/RescueSheet-NewFlyer-XE60-2025_BEV_1.pdf"
+  },
+  {
+    "make": "new_flyer",
+    "model": "XHE40",
+    "url": "https://static.nhtsa.gov/erg/NFI-GROUP/EmergencyResponseGuide-NewFlyer-XHE40-2025_FCEV_1.pdf"
+  },
+  {
+    "make": "new_flyer",
+    "model": "XHE40",
+    "url": "https://static.nhtsa.gov/erg/NFI-GROUP/RescueSheet-NewFlyer-XHE40-2025_FCEV_1.pdf"
+  },
+  {
+    "make": "new_flyer",
+    "model": "XHE60",
+    "url": "https://static.nhtsa.gov/erg/NFI-GROUP/EmergencyResponseGuide-NewFlyer-XHE60-2025_FCEV_1.pdf"
+  },
+  {
+    "make": "new_flyer",
+    "model": "XHE60",
+    "url": "https://static.nhtsa.gov/erg/NFI-GROUP/RescueSheet-NewFlyer-XHE60-2025_FCEV_1.pdf"
+  },
+  {
+    "make": "new_holland",
+    "model": "E15X ELECTRIC POWER",
+    "url": "https://static.nhtsa.gov/erg/NEW-HOLLAND/RescueSheet-NewHolland.pdf"
+  },
+  {
+    "make": "new_holland",
+    "model": "E15X ELECTRIC POWER",
+    "url": "https://static.nhtsa.gov/erg/NEW-HOLLAND/RescueSheet-15X_NEWHOLLAND-ENG-MQ.pdf"
+  },
+  {
+    "make": "nikola",
+    "model": "TRE BEV (CLASS 8 COE 2-DOOR TRUCK-TRACTOR)",
+    "url": "https://static.nhtsa.gov/erg/NIKOLA/EmergencyResponseGuide-Nikola-TBERG_REV3-2022-2024.pdf"
+  },
+  {
+    "make": "nikola",
+    "model": "TRE BEV (CLASS 8 COE 2-DOOR TRUCK-TRACTOR)",
+    "url": "https://static.nhtsa.gov/erg/NIKOLA/RescueSheet-Nikola-TreBEV-0001-REV2.pdf"
+  },
+  {
+    "make": "nikola",
+    "model": "TRE FCEV (CLASS 8 COE 2-DOOR TRUCK-TRACTOR)",
+    "url": "https://static.nhtsa.gov/erg/NIKOLA/EmergencyResponseGuide-NikolaFCEV-REV6-2022.pdf"
+  },
+  {
+    "make": "nikola",
+    "model": "TRE FCEV (CLASS 8 COE 2-DOOR TRUCK-TRACTOR)",
+    "url": "https://static.nhtsa.gov/erg/NIKOLA/RescueSheet-NikolaFCEV-REV5.pdf"
+  },
+  {
+    "make": "nikola",
+    "model": "TRE FCEV (CLASS 8 COE 2-DOOR TRUCK-TRACTOR)",
+    "url": "https://static.nhtsa.gov/erg/NIKOLA/EmergencyResponseGuide_Nikola_TRE_FCEV_2022_2025_Rev7.pdf"
+  },
+  {
+    "make": "nikola",
+    "model": "TRE FCEV (CLASS 8 COE 2-DOOR TRUCK-TRACTOR)",
+    "url": "https://static.nhtsa.gov/erg/NIKOLA/RescueSheet_Nikola_Tre_FCEV_2022_2025_Rev7.pdf"
+  },
+  {
+    "make": "nissan",
+    "model": "ARIYA",
+    "url": "https://static.nhtsa.gov/erg/NISSAN-MOTOR-CORPORATION/EmergencyResponseGuide_NISSAN_ARIYA_2023.pdf"
+  },
+  {
+    "make": "nissan",
+    "model": "ARIYA",
+    "url": "https://static.nhtsa.gov/erg/NISSAN-MOTOR-CORPORATION/EmergencyResponseGuide_NISSAN_ARIYA_2024.pdf"
+  },
+  {
+    "make": "nissan",
+    "model": "ARIYA",
+    "url": "https://static.nhtsa.gov/erg/NISSAN-MOTOR-CORPORATION/EmergencyResponseGuide_NISSAN_ARIYA_2025.pdf"
+  },
+  {
+    "make": "nissan",
+    "model": "ARIYA",
+    "url": "https://static.nhtsa.gov/erg/NISSAN-MOTOR-CORPORATION/EmergencyResponseGuide-Nissan-Ariya-2026.pdf"
+  },
+  {
+    "make": "nissan",
+    "model": "LEAF",
+    "url": "https://static.nhtsa.gov/erg/NISSAN-MOTOR-CORPORATION/EmergencyResponseGuide_Nissan_Leaf_2015_RAG.pdf"
+  },
+  {
+    "make": "nissan",
+    "model": "LEAF",
+    "url": "https://static.nhtsa.gov/erg/NISSAN-MOTOR-CORPORATION/EmergencyResponseGuide_Nissan_Leaf_2016_RAG.pdf"
+  },
+  {
+    "make": "nissan",
+    "model": "LEAF",
+    "url": "https://static.nhtsa.gov/erg/NISSAN-MOTOR-CORPORATION/EmergencyResponseGuide_Nissan_Leaf_2017_RAG.pdf"
+  },
+  {
+    "make": "nissan",
+    "model": "LEAF",
+    "url": "https://static.nhtsa.gov/erg/NISSAN-MOTOR-CORPORATION/EmergencyResponseGuide_Nissan_Leaf_2018_RAG.pdf"
+  },
+  {
+    "make": "nissan",
+    "model": "LEAF",
+    "url": "https://static.nhtsa.gov/erg/NISSAN-MOTOR-CORPORATION/EmergencyResponseGuide_Nissan_LEAF_2019FRG.pdf"
+  },
+  {
+    "make": "nissan",
+    "model": "LEAF",
+    "url": "https://static.nhtsa.gov/erg/NISSAN-MOTOR-CORPORATION/EmergencyResponseGuide_Nissan_Leaf_2020FRG.pdf"
+  },
+  {
+    "make": "nissan",
+    "model": "LEAF",
+    "url": "https://static.nhtsa.gov/erg/NISSAN-MOTOR-CORPORATION/EmergencyResponseGuide_Nissan_Leaf_2021FRG.pdf"
+  },
+  {
+    "make": "nissan",
+    "model": "LEAF",
+    "url": "https://static.nhtsa.gov/erg/NISSAN-MOTOR-CORPORATION/EmergencyResponseGuide_Nissan_Leaf_2022FRG.pdf"
+  },
+  {
+    "make": "nissan",
+    "model": "LEAF",
+    "url": "https://static.nhtsa.gov/erg/NISSAN-MOTOR-CORPORATION/EmergencyResponseGuide_Nissan_LEAF_2023.pdf"
+  },
+  {
+    "make": "nissan",
+    "model": "LEAF",
+    "url": "https://static.nhtsa.gov/erg/NISSAN-MOTOR-CORPORATION/EmergencyResponseGuide_NISSAN_LEAF_2024.pdf"
+  },
+  {
+    "make": "nissan",
+    "model": "LEAF",
+    "url": "https://static.nhtsa.gov/erg/NISSAN-MOTOR-CORPORATION/EmergencyResponseGuide_NISSAN_LEAF_EV_2025.pdf"
+  },
+  {
+    "make": "nissan",
+    "model": "LEAF",
+    "url": "https://static.nhtsa.gov/erg/NISSAN-MOTOR-CORPORATION/EmergencyResponseGuide-Nissan-Leaf-2026.pdf"
+  },
+  {
+    "make": "nissan",
+    "model": "LEAF",
+    "url": "https://static.nhtsa.gov/erg/NISSAN-MOTOR-CORPORATION/EmergencyResponseGuide_Nissan_Leaf_2015_FRG.pdf"
+  },
+  {
+    "make": "nissan",
+    "model": "LEAF",
+    "url": "https://static.nhtsa.gov/erg/NISSAN-MOTOR-CORPORATION/EmergencyResponseGuide_Nissan_Leaf_2016_DG.pdf"
+  },
+  {
+    "make": "nissan",
+    "model": "LEAF",
+    "url": "https://static.nhtsa.gov/erg/NISSAN-MOTOR-CORPORATION/EmergencyResponseGuide_Nissan_Leaf_2017_FRG.pdf"
+  },
+  {
+    "make": "nissan",
+    "model": "LEAF",
+    "url": "https://static.nhtsa.gov/erg/NISSAN-MOTOR-CORPORATION/EmergencyResponseGuide_Nissan_Leaf_2018_FRG.pdf"
+  },
+  {
+    "make": "nissan",
+    "model": "LEAF",
+    "url": "https://static.nhtsa.gov/erg/NISSAN-MOTOR-CORPORATION/EmergencyResponseGuide_Nissan_Leaf_2019_DG.pdf"
+  },
+  {
+    "make": "nissan",
+    "model": "LEAF",
+    "url": "https://static.nhtsa.gov/erg/NISSAN-MOTOR-CORPORATION/EmergencyResponseGuide_Nissan_Leaf_2020_RAG.pdf"
+  },
+  {
+    "make": "nissan",
+    "model": "LEAF",
+    "url": "https://static.nhtsa.gov/erg/NISSAN-MOTOR-CORPORATION/EmergencyResponseGuide_Nissan_Leaf_2022FirstRespondersGuide.pdf"
+  },
+  {
+    "make": "nissan",
+    "model": "LEAF",
+    "url": "https://static.nhtsa.gov/erg/NISSAN-MOTOR-CORPORATION/EmergencyResponseGuide_Nissan_Leaf_2015_DG.pdf"
+  },
+  {
+    "make": "nissan",
+    "model": "LEAF",
+    "url": "https://static.nhtsa.gov/erg/NISSAN-MOTOR-CORPORATION/EmergencyResponseGuide_Nissan_Leaf_2016_FRG.pdf"
+  },
+  {
+    "make": "nissan",
+    "model": "LEAF",
+    "url": "https://static.nhtsa.gov/erg/NISSAN-MOTOR-CORPORATION/EmergencyResponseGuide_Nissan_Leaf_2017_DG.pdf"
+  },
+  {
+    "make": "nissan",
+    "model": "LEAF",
+    "url": "https://static.nhtsa.gov/erg/NISSAN-MOTOR-CORPORATION/EmergencyResponseGuide_Nissan_Leaf_2018_DG.pdf"
+  },
+  {
+    "make": "nissan",
+    "model": "LEAF",
+    "url": "https://static.nhtsa.gov/erg/NISSAN-MOTOR-CORPORATION/EmergencyResponseGuide_Nissan_Leaf_2019_RAG.pdf"
+  },
+  {
+    "make": "nissan",
+    "model": "LEAF",
+    "url": "https://static.nhtsa.gov/erg/NISSAN-MOTOR-CORPORATION/EmergencyResponseGuide_Nissan_Leaf_2020_FRG.pdf"
+  },
+  {
+    "make": "nissan",
+    "model": "LEAF",
+    "url": "https://static.nhtsa.gov/erg/NISSAN-MOTOR-CORPORATION/EmergencyResponseGuide_NISSAN_LEAF_2022_DG.pdf"
+  },
+  {
+    "make": "nissan",
+    "model": "LEAF",
+    "url": "https://static.nhtsa.gov/erg/NISSAN-MOTOR-CORPORATION/EmergencyResponseGuide_Nissan_Leaf_2020_DG.pdf"
+  },
+  {
+    "make": "nissan",
+    "model": "ROGUE",
+    "url": "https://static.nhtsa.gov/erg/NISSAN-MOTOR-CORPORATION/EmergencyResponseGuide-Nissan-RoguePHEV-2026_PHEV_1.pdf"
+  },
+  {
+    "make": "nissan",
+    "model": "ROGUE",
+    "url": "https://static.nhtsa.gov/erg/NISSAN-MOTOR-CORPORATION/RescueSheet-Nissan-RoguePHEV-2026_PHEV_1.pdf"
+  },
+  {
+    "make": "nova",
+    "model": "NOVA BUS HYBRID",
+    "url": "https://static.nhtsa.gov/erg/VOLVO-GROUP/EmergencyResponseGuide_NovaBus_HEV_32K_2018-2022_HEV_1.pdf"
+  },
+  {
+    "make": "nova",
+    "model": "NOVA BUS LFSE",
+    "url": "https://static.nhtsa.gov/erg/VOLVO-GROUP/EmergencyResponseGuide-NovaBus-LFSe-2016-2020.pdf"
+  },
+  {
+    "make": "nova",
+    "model": "NOVA BUS LFSE+",
+    "url": "https://static.nhtsa.gov/erg/VOLVO-GROUP/EmergencyResponseGuide-NovaBus-LFSePlus-V02-2022-2026.pdf"
+  },
+  {
+    "make": "nova",
+    "model": "NOVA BUS LFSE+",
+    "url": "https://static.nhtsa.gov/erg/VOLVO-GROUP/RescueSheet-NovaBus-LFSePlus-2022-2026.pdf"
+  },
+  {
+    "make": "ohmio",
+    "model": "LIFT",
+    "url": "https://static.nhtsa.gov/erg/OHMIO-AUTOMOTION-LTD/EmergencyResponseGuide_Ohmio_ERG_002_Lift.pdf"
+  },
+  {
+    "make": "optimal",
+    "model": "OPTIMAL-EV ELECTRIC VEHICLES",
+    "url": "https://static.nhtsa.gov/erg/OPTIMAL-EV/EmergencyResponseGuide-OPTIMAL-EV.pdf"
+  },
+  {
+    "make": "orange_ev",
+    "model": "E-TRIEVER",
+    "url": "https://static.nhtsa.gov/erg/ORANGE-EV/EmergencyResponseGuide-OrangeEV-eTRIEVER-BEV-NOV2024-Present.pdf"
+  },
+  {
+    "make": "orange_ev",
+    "model": "E-TRIEVER",
+    "url": "https://static.nhtsa.gov/erg/ORANGE-EV/RescueSheet-OrangeEV-eTRIEVER-BEV-NOV2024-Present.pdf"
+  },
+  {
+    "make": "orange_ev",
+    "model": "HUSK-E",
+    "url": "https://static.nhtsa.gov/erg/ORANGE-EV/EmergencyResponseGuide-OrangeEV-HUSKe-2023-Present.pdf"
+  },
+  {
+    "make": "orange_ev",
+    "model": "HUSK-E",
+    "url": "https://static.nhtsa.gov/erg/ORANGE-EV/RescueSheet-OrangeEV-HUSKe-2023-Present.pdf"
+  },
+  {
+    "make": "oshkosh",
+    "model": "NEXT GENERATION DELIVERY VEHICLE",
+    "url": "https://static.nhtsa.gov/erg/OSHKOSH-CORPORATION/EmergencyResponseGuide-Oshkosh-NGDV-2025_BEV_1.pdf"
+  },
+  {
+    "make": "oshkosh",
+    "model": "NEXT GENERATION DELIVERY VEHICLE",
+    "url": "https://static.nhtsa.gov/erg/OSHKOSH-CORPORATION/RescueSheet-Oshkosh-NGDV-2025_BEV_1.pdf"
+  },
+  {
+    "make": "peterbilt",
+    "model": "220EV",
+    "url": "https://static.nhtsa.gov/erg/PACCAR/EmergencyResponseGuide-PB_KW-220EV_K270E_K370E-2021_2026_BEV_1.pdf"
+  },
+  {
+    "make": "peterbilt",
+    "model": "220EV",
+    "url": "https://static.nhtsa.gov/erg/PACCAR/RescueSheet-PB_KW-220EV_K270E_K370E-2021_2026_BEV_1.pdf"
+  },
+  {
+    "make": "peterbilt",
+    "model": "536EV",
+    "url": "https://static.nhtsa.gov/erg/PACCAR/EmergencyResponseGuide-Peterbilt_Kenworth-Medium_Duty-2025_2026_BEV_1.pdf"
+  },
+  {
+    "make": "peterbilt",
+    "model": "536EV",
+    "url": "https://static.nhtsa.gov/erg/PACCAR/RescueSheet-Peterbilt_Kenworth-Medium_Duty-2025_2026_BEV_1.pdf"
+  },
+  {
+    "make": "peterbilt",
+    "model": "567EV",
+    "url": "https://static.nhtsa.gov/erg/PACCAR/EmergencyResponseGuide-PB_KW-579EV_567EV_T680E_T880E-2025_2026_BEV_1.pdf"
+  },
+  {
+    "make": "peterbilt",
+    "model": "567EV",
+    "url": "https://static.nhtsa.gov/erg/PACCAR/RescueSheet-PB_KW-579EV_567EV_T680E_T880E-2025_2026_BEV_1.pdf"
+  },
+  {
+    "make": "peterbilt",
+    "model": "579EV (WITH E-AXLE)",
+    "url": "https://static.nhtsa.gov/erg/PACCAR/EmergencyResponseGuide-PB_KW-579EV_T680E-2022_2026_BEV_1.pdf"
+  },
+  {
+    "make": "peterbilt",
+    "model": "579EV (WITH E-AXLE)",
+    "url": "https://static.nhtsa.gov/erg/PACCAR/RescueSheet-PB_KW-579EV_T680E-2022-2026_BEV_1.pdf"
+  },
+  {
+    "make": "pierce_manufacturing",
+    "model": "PIERCE VOLTERRA",
+    "url": "https://static.nhtsa.gov/erg/OSHKOSH-CORPORATION/EmergencyResponseGuide-Pierce-Volterra-2025_HEV_1.pdf"
+  },
+  {
+    "make": "pierce_manufacturing",
+    "model": "PIERCE VOLTERRA",
+    "url": "https://static.nhtsa.gov/erg/OSHKOSH-CORPORATION/RescueSheet-Pierce-Volterra-2025_HEV_1.pdf"
+  },
+  {
+    "make": "pininfarina",
+    "model": "BATTISTA",
+    "url": "https://static.nhtsa.gov/erg/AUTOMOBILI-PININFARINA/EmergencyResponseGuide-Battista-2022-2025.pdf"
+  },
+  {
+    "make": "polestar",
+    "model": "POLESTAR 1",
+    "url": "https://static.nhtsa.gov/erg/POLESTAR/EmergencyResponseGuide-Polestar-Polestar1-2020-2021_PHEV_1.pdf"
+  },
+  {
+    "make": "polestar",
+    "model": "POLESTAR 2",
+    "url": "https://static.nhtsa.gov/erg/POLESTAR/EmergencyResponseGuide-Polestar-Polestar2-2021-2025_BEV_1.pdf"
+  },
+  {
+    "make": "polestar",
+    "model": "POLESTAR 2",
+    "url": "https://static.nhtsa.gov/erg/POLESTAR/RescueSheet-Polestar-Polestar2-2021-2025_BEV_1.pdf"
+  },
+  {
+    "make": "polestar",
+    "model": "POLESTAR 3",
+    "url": "https://static.nhtsa.gov/erg/POLESTAR/EmergencyResponseGuide-Polestar-Polestar3-2024-2026_BEV_1.pdf"
+  },
+  {
+    "make": "polestar",
+    "model": "POLESTAR 3",
+    "url": "https://static.nhtsa.gov/erg/POLESTAR/RescueSheet-Polestar-Polestar3-2024-2026_BEV_1.pdf"
+  },
+  {
+    "make": "polestar",
+    "model": "POLESTAR 4",
+    "url": "https://static.nhtsa.gov/erg/POLESTAR/EmergencyResponseGuide-Polestar-Polestar4-2025-2026_BEV_1.pdf"
+  },
+  {
+    "make": "polestar",
+    "model": "POLESTAR 4",
+    "url": "https://static.nhtsa.gov/erg/POLESTAR/RescueSheet-Polestar-Polestar4-2025-2026_BEV_1.pdf"
+  },
+  {
+    "make": "porsche",
+    "model": "911 T-HYBRID",
+    "url": "https://static.nhtsa.gov/erg/PORSCHE/EmergencyResponseGuide-Porsche-911THEV-2025.pdf"
+  },
+  {
+    "make": "porsche",
+    "model": "911 T-HYBRID",
+    "url": "https://static.nhtsa.gov/erg/PORSCHE/RescueSheet-Porsche-911THEV-2025.pdf"
+  },
+  {
+    "make": "porsche",
+    "model": "918 SPYDER",
+    "url": "https://static.nhtsa.gov/erg/PORSCHE/EmergencyResponseGuide-Porsche-918Spyder-2014.pdf"
+  },
+  {
+    "make": "porsche",
+    "model": "918 SPYDER",
+    "url": "https://static.nhtsa.gov/erg/PORSCHE/RescueSheet-Porsche-918Spyder-2014.pdf"
+  },
+  {
+    "make": "porsche",
+    "model": "CAYENNE COUPE EHYBRID (PHEV)",
+    "url": "https://static.nhtsa.gov/erg/PORSCHE/EmergencyResponseGuide-Porsche-CayenneCoupeEHybrid-2023.pdf"
+  },
+  {
+    "make": "porsche",
+    "model": "CAYENNE COUPE EHYBRID (PHEV)",
+    "url": "https://static.nhtsa.gov/erg/PORSCHE/RescueSheet-Porsche-CayenneCoupeEHybrid-2023.pdf"
+  },
+  {
+    "make": "porsche",
+    "model": "CAYENNE EHYBRID (PHEV)",
+    "url": "https://static.nhtsa.gov/erg/PORSCHE/EmergencyResponseGuide-Porsche-CayenneEHybrid-2015.pdf"
+  },
+  {
+    "make": "porsche",
+    "model": "CAYENNE EHYBRID (PHEV)",
+    "url": "https://static.nhtsa.gov/erg/PORSCHE/RescueSheet-Porsche-CayenneEHybrid-2015.pdf"
+  },
+  {
+    "make": "porsche",
+    "model": "CAYENNE EHYBRID (PHEV)",
+    "url": "https://static.nhtsa.gov/erg/PORSCHE/EmergencyResponseGuide-Porsche-CayenneEHybrid-2023.pdf"
+  },
+  {
+    "make": "porsche",
+    "model": "CAYENNE EHYBRID (PHEV)",
+    "url": "https://static.nhtsa.gov/erg/PORSCHE/RescueSheet-Porsche-CayenneEHybrid-2023.pdf"
+  },
+  {
+    "make": "porsche",
+    "model": "CAYENNE ELECTRIC (BEV)",
+    "url": "https://static.nhtsa.gov/erg/PORSCHE/EmergencyResponseGuide-Porsche-CayenneBEV-2026.pdf"
+  },
+  {
+    "make": "porsche",
+    "model": "CAYENNE ELECTRIC (BEV)",
+    "url": "https://static.nhtsa.gov/erg/PORSCHE/RescueSheet-Porsche-CayenneBEV-2026.pdf"
+  },
+  {
+    "make": "porsche",
+    "model": "CAYENNE HYBRID",
+    "url": "https://static.nhtsa.gov/erg/PORSCHE/EmergencyResponseGuide-Porsche-CayenneHEV-2011.pdf"
+  },
+  {
+    "make": "porsche",
+    "model": "CAYENNE HYBRID",
+    "url": "https://static.nhtsa.gov/erg/PORSCHE/RescueSheet-Porsche-CayenneHEV-2011.pdf"
+  },
+  {
+    "make": "porsche",
+    "model": "MACAN ELECTRIC",
+    "url": "https://static.nhtsa.gov/erg/PORSCHE/EmergencyResponseGuide-Porsche-MacanBEV-2024.pdf"
+  },
+  {
+    "make": "porsche",
+    "model": "MACAN ELECTRIC",
+    "url": "https://static.nhtsa.gov/erg/PORSCHE/RescueSheet-Porsche-MacanBEV-2023.pdf"
+  },
+  {
+    "make": "porsche",
+    "model": "PANAMERA EHYBRID (PHEV)",
+    "url": "https://static.nhtsa.gov/erg/PORSCHE/EmergencyResponseGuide-Porsche-PanameraEHybrid-2014.pdf"
+  },
+  {
+    "make": "porsche",
+    "model": "PANAMERA EHYBRID (PHEV)",
+    "url": "https://static.nhtsa.gov/erg/PORSCHE/RescueSheet-Porsche-PanameraEHybrid-2014.pdf"
+  },
+  {
+    "make": "porsche",
+    "model": "PANAMERA EHYBRID (PHEV)",
+    "url": "https://static.nhtsa.gov/erg/PORSCHE/EmergencyResponseGuide-Porsche-PanameraEHybrid-2017.pdf"
+  },
+  {
+    "make": "porsche",
+    "model": "PANAMERA EHYBRID (PHEV)",
+    "url": "https://static.nhtsa.gov/erg/PORSCHE/RescueSheet-Porsche-PanameraEHybrid-2017.pdf"
+  },
+  {
+    "make": "porsche",
+    "model": "PANAMERA EHYBRID (PHEV)",
+    "url": "https://static.nhtsa.gov/erg/PORSCHE/EmergencyResponseGuide-Porsche-PanameraEHybrid-2024.pdf"
+  },
+  {
+    "make": "porsche",
+    "model": "PANAMERA EHYBRID (PHEV)",
+    "url": "https://static.nhtsa.gov/erg/PORSCHE/RescueSheet-Porsche-PanameraEHybrid-2024.pdf"
+  },
+  {
+    "make": "porsche",
+    "model": "PANAMERA HYBRID",
+    "url": "https://static.nhtsa.gov/erg/PORSCHE/EmergencyResponseGuide-Porsche-PanameraHEV-2011.pdf"
+  },
+  {
+    "make": "porsche",
+    "model": "PANAMERA HYBRID",
+    "url": "https://static.nhtsa.gov/erg/PORSCHE/RescueSheet-Porsche-PanameraHEV-2011.pdf"
+  },
+  {
+    "make": "porsche",
+    "model": "TAYCAN",
+    "url": "https://static.nhtsa.gov/erg/PORSCHE/EmergencyResponseGuide-Porsche-Taycan-2020.pdf"
+  },
+  {
+    "make": "porsche",
+    "model": "TAYCAN",
+    "url": "https://static.nhtsa.gov/erg/PORSCHE/RescueSheet-Porsche-Taycan-2020.pdf"
+  },
+  {
+    "make": "porsche",
+    "model": "TAYCAN",
+    "url": "https://static.nhtsa.gov/erg/PORSCHE/EmergencyResponseGuide-Porsche-Taycan-2024.pdf"
+  },
+  {
+    "make": "porsche",
+    "model": "TAYCAN",
+    "url": "https://static.nhtsa.gov/erg/PORSCHE/RescueSheet-Porsche-Taycan-2024.pdf"
+  },
+  {
+    "make": "porsche",
+    "model": "TAYCAN CROSS/SPORT TURISMO",
+    "url": "https://static.nhtsa.gov/erg/PORSCHE/EmergencyResponseGuide-Porsche-Taycan-Turismo-2021.pdf"
+  },
+  {
+    "make": "porsche",
+    "model": "TAYCAN CROSS/SPORT TURISMO",
+    "url": "https://static.nhtsa.gov/erg/PORSCHE/RescueSheet-Porsche-Taycan-Turismo-2021.pdf"
+  },
+  {
+    "make": "porsche",
+    "model": "TAYCAN CROSS/SPORT TURISMO",
+    "url": "https://static.nhtsa.gov/erg/PORSCHE/EmergencyResponseGuide-Porsche-Taycan-Turismo-2024.pdf"
+  },
+  {
+    "make": "porsche",
+    "model": "TAYCAN CROSS/SPORT TURISMO",
+    "url": "https://static.nhtsa.gov/erg/PORSCHE/RescueSheet-Porsche-Taycan-Turismo-2024.pdf"
+  },
+  {
+    "make": "ram",
+    "model": "PROMASTER CARGO",
+    "url": "https://static.nhtsa.gov/erg/FCA-US-LLC/EmergencyResponseGuide-Ram-Promaster-Cargo-2025-2026_BEV_1.pdf"
+  },
+  {
+    "make": "ram",
+    "model": "PROMASTER CARGO",
+    "url": "https://static.nhtsa.gov/erg/FCA-US-LLC/RescueSheet-Ram-Promaster-Cargo-2025-2026_BEV_1.pdf"
+  },
+  {
+    "make": "ram",
+    "model": "PROMASTER DELIVERY",
+    "url": "https://static.nhtsa.gov/erg/FCA-US-LLC/EmergencyResponseGuide-Ram-Promaster-Delivery-2024-2026.pdf"
+  },
+  {
+    "make": "ram",
+    "model": "PROMASTER DELIVERY",
+    "url": "https://static.nhtsa.gov/erg/FCA-US-LLC/RescueSheet-Ram-Promaster-Delivery-2024-2026.pdf"
+  },
+  {
+    "make": "ride",
+    "model": "RIDE ACHIEVER",
+    "url": "https://static.nhtsa.gov/erg/BYD/RIDE-COACH-AND-BUS-LLC/RescueSheet-RIDE-Achiever-2024_to_2026-v1.1_BEV_1.pdf"
+  },
+  {
+    "make": "rimac",
+    "model": "NEVERA R",
+    "url": "https://static.nhtsa.gov/erg/BUGATTI-RIMAC/EmergencyResponseGuide-RIMAC-NEVERA_R-MY2026.pdf"
+  },
+  {
+    "make": "rimac",
+    "model": "NEVERA R",
+    "url": "https://static.nhtsa.gov/erg/BUGATTI-RIMAC/RescueSheet-RIMAC-NEVERA_R-MY2026.pdf"
+  },
+  {
+    "make": "rivian",
+    "model": "R1S",
+    "url": "https://static.nhtsa.gov/erg/RIVIAN/EmergencyResponseGuide-r1s-en-us-20251219_BEV_1.pdf"
+  },
+  {
+    "make": "rivian",
+    "model": "R1S",
+    "url": "https://static.nhtsa.gov/erg/RIVIAN/RescueSheet-r1s-en-us-20251219_BEV_1.pdf"
+  },
+  {
+    "make": "rivian",
+    "model": "R1T",
+    "url": "https://static.nhtsa.gov/erg/RIVIAN/EmergencyResponseGuide-r1t-en-us-20251219_BEV_1.pdf"
+  },
+  {
+    "make": "rivian",
+    "model": "R1T",
+    "url": "https://static.nhtsa.gov/erg/RIVIAN/RescueSheet-r1t-en-us-20251219_BEV_1.pdf"
+  },
+  {
+    "make": "rivian",
+    "model": "RIVIAN COMMERCIAL VAN",
+    "url": "https://static.nhtsa.gov/erg/RIVIAN/EmergencyResponseGuide-edv-rcv-en-us-20251219_BEV_1.pdf"
+  },
+  {
+    "make": "rivian",
+    "model": "RIVIAN COMMERCIAL VAN",
+    "url": "https://static.nhtsa.gov/erg/RIVIAN/RescueSheet-edv-rcv-en-us-20251219_BEV_1.pdf"
+  },
+  {
+    "make": "rizon",
+    "model": "E16L",
+    "url": "https://static.nhtsa.gov/erg/MITSUBISHI-FUSO-TRUCK-AND-BUS/EmergencyResponseGuide-Make-Model-ModelYear_BEV_1.pdf"
+  },
+  {
+    "make": "rizon",
+    "model": "E16L",
+    "url": "https://static.nhtsa.gov/erg/MITSUBISHI-FUSO-TRUCK-AND-BUS/RescueSheet-Make-Model-ModelYear_BEV_1.pdf"
+  },
+  {
+    "make": "rolls-royce",
+    "model": "SPECTRE",
+    "url": "https://static.nhtsa.gov/erg/BMW/RescueSheet-RollsRoyce-Spectre-2026_BEV_1.pdf"
+  },
+  {
+    "make": "rolls-royce",
+    "model": "SPECTRE",
+    "url": "https://static.nhtsa.gov/erg/BMW/EmergencyResponseGuide-BMWGroup-RR-2026_BEV_1.pdf"
+  },
+  {
+    "make": "saturn",
+    "model": "AURA GREEN LINE",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet-GM-Saturn_Aura_HEV-2007-2009.pdf"
+  },
+  {
+    "make": "saturn",
+    "model": "VUE GREEN LINE",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/EmergencyResponseGuide_Saturn_VUE_Hybrid_2007_v1.pdf"
+  },
+  {
+    "make": "saturn",
+    "model": "VUE GREEN LINE",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet_Saturn_VUE_Hybrid_2007_v1.pdf"
+  },
+  {
+    "make": "saturn",
+    "model": "VUE GREEN LINE",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/EmergencyResponseGuide_Saturn_VUE_Hybrid_2008-2010_v1.pdf"
+  },
+  {
+    "make": "saturn",
+    "model": "VUE GREEN LINE",
+    "url": "https://static.nhtsa.gov/erg/GENERAL-MOTORS/RescueSheet_Saturn_VUE_Hybrid_2008-2010_v1.pdf"
+  },
+  {
+    "make": "sea_electric",
+    "model": "HINO 195 EV",
+    "url": "https://static.nhtsa.gov/erg/EXRO-TECHNOLOGIES/EmergencyResponseGuide-Hino-195EV-M5EV-SEA5e-DO1266.pdf"
+  },
+  {
+    "make": "sea_electric",
+    "model": "SEA IC CE SCHOOL BUS",
+    "url": "https://static.nhtsa.gov/erg/EXRO-TECHNOLOGIES/EmergencyResponseGuide-SEA-IC-Bus-DO1273_REV2-EXTERNAL.pdf"
+  },
+  {
+    "make": "smith",
+    "model": "SMITH NEWTON (GEN1)",
+    "url": "https://static.nhtsa.gov/erg/SMITH/RescueSheet-SmithNewton-EV-2006-2012.pdf"
+  },
+  {
+    "make": "smith",
+    "model": "SMITH NEWTON STEP VAN",
+    "url": "https://static.nhtsa.gov/erg/SMITH/RescueSheet-SmithNewton-StepVan-EV-2012-2017.pdf"
+  },
+  {
+    "make": "smith",
+    "model": "SMITH NEWTON(GEN 2000)",
+    "url": "https://static.nhtsa.gov/erg/SMITH/RescueSheet-SmithNewton-Gen2000-EV-2012-2017.pdf"
+  },
+  {
+    "make": "subaru",
+    "model": "CROSSTREK HYBRID (HEV)",
+    "url": "https://static.nhtsa.gov/erg/SUBARU/EmergencyResponseGuide-SubaruCrosstrek-HEV-2014-2015.pdf"
+  },
+  {
+    "make": "subaru",
+    "model": "CROSSTREK HYBRID (HEV)",
+    "url": "https://static.nhtsa.gov/erg/SUBARU/EmergencyResponseGuide-Subaru-Crosstrek-Hybrid-S1220BE.pdf"
+  },
+  {
+    "make": "subaru",
+    "model": "CROSSTREK HYBRID (HEV)",
+    "url": "https://static.nhtsa.gov/erg/SUBARU/EmergencyResponseGuide-Subaru-Crosstrek-Hybrid-V8440BE.pdf"
+  },
+  {
+    "make": "subaru",
+    "model": "CROSSTREK HYBRID (HEV)",
+    "url": "https://static.nhtsa.gov/erg/SUBARU/RescueSheet-Subaru-Crosstrek-Hybrid-T1670BE.pdf"
+  },
+  {
+    "make": "subaru",
+    "model": "CROSSTREK HYBRID (HEV)",
+    "url": "https://static.nhtsa.gov/erg/SUBARU/EmergencyResponseGuide-SuburuCrossTrek-Electric-2019.pdf"
+  },
+  {
+    "make": "subaru",
+    "model": "CROSSTREK HYBRID (HEV)",
+    "url": "https://static.nhtsa.gov/erg/SUBARU/EmergencyResponseGuide-SubaruCrosstrek-Hybrid-2020.pdf"
+  },
+  {
+    "make": "subaru",
+    "model": "FORESTER HYBRID (HEV)",
+    "url": "https://static.nhtsa.gov/erg/SUBARU/EmergencyResponseGuide-Subaru-Forester-Hybrid-V8440BE.pdf"
+  },
+  {
+    "make": "subaru",
+    "model": "FORESTER HYBRID (HEV)",
+    "url": "https://static.nhtsa.gov/erg/SUBARU/RescueSheet-Subaru-Forester-Hybrid-T8440BE.pdf"
+  },
+  {
+    "make": "subaru",
+    "model": "SOLTERRA",
+    "url": "https://static.nhtsa.gov/erg/SUBARU/EmergencyResponseGuide-Subaru-Solterra-V6740BE.pdf"
+  },
+  {
+    "make": "subaru",
+    "model": "SOLTERRA",
+    "url": "https://static.nhtsa.gov/erg/SUBARU/RescueSheet-Subaru-Solterra-Solterra10-V01.pdf"
+  },
+  {
+    "make": "tesla",
+    "model": "CYBERTRUCK",
+    "url": "https://static.nhtsa.gov/erg/TESLA,-INC./EmergencyResponseGuide-Tesla-Cybertruck-2023-EN_BEV_1.pdf"
+  },
+  {
+    "make": "tesla",
+    "model": "CYBERTRUCK",
+    "url": "https://static.nhtsa.gov/erg/TESLA,-INC./RescueSheet-Tesla-Cybertruck-2023-Present.pdf"
+  },
+  {
+    "make": "tesla",
+    "model": "MODEL 3",
+    "url": "https://static.nhtsa.gov/erg/TESLA/EmergencyResponseGuide-Tesla-Model_3-2020-2024.pdf"
+  },
+  {
+    "make": "tesla",
+    "model": "MODEL 3",
+    "url": "https://static.nhtsa.gov/erg/TESLA/RescueSheet-Tesla-Model_3-2020-2024.pdf"
+  },
+  {
+    "make": "tesla",
+    "model": "MODEL 3",
+    "url": "https://static.nhtsa.gov/erg/TESLA/EmergencyResponseGuide-Tesla-Model-3-2024.pdf"
+  },
+  {
+    "make": "tesla",
+    "model": "MODEL 3",
+    "url": "https://static.nhtsa.gov/erg/TESLA/RescueSheet-Tesla-Model-3-2024.pdf"
+  },
+  {
+    "make": "tesla",
+    "model": "MODEL S (DUAL MOTOR AWD VERSION)",
+    "url": "https://static.nhtsa.gov/erg/TESLA/EmergencyResponseGuide-Tesla-Model_S_Dual_Motor-2014-2015.pdf"
+  },
+  {
+    "make": "tesla",
+    "model": "MODEL S (DUAL MOTOR AWD VERSION)",
+    "url": "https://static.nhtsa.gov/erg/TESLA,-INC./RescueSheet-Tesla-Model-S-2022-EN_BEV_1.pdf"
+  },
+  {
+    "make": "tesla",
+    "model": "MODEL S",
+    "url": "https://static.nhtsa.gov/erg/TESLA/EmergencyResponseGuide-Tesla-Model_S-2012-2013.pdf"
+  },
+  {
+    "make": "tesla",
+    "model": "MODEL S",
+    "url": "https://static.nhtsa.gov/erg/TESLA/RescueSheet-Tesla-Model_S-2012-2015.pdf"
+  },
+  {
+    "make": "tesla",
+    "model": "MODEL S",
+    "url": "https://static.nhtsa.gov/erg/TESLA/EmergencyResponseGuide-Tesla-Model_S-2014.pdf"
+  },
+  {
+    "make": "tesla",
+    "model": "MODEL S",
+    "url": "https://static.nhtsa.gov/erg/TESLA/EmergencyResponseGuide-Tesla-Model_S-2016.pdf"
+  },
+  {
+    "make": "tesla",
+    "model": "MODEL S",
+    "url": "https://static.nhtsa.gov/erg/TESLA/RescueSheet-Tesla-Model_S-2016.pdf"
+  },
+  {
+    "make": "tesla",
+    "model": "MODEL S",
+    "url": "https://static.nhtsa.gov/erg/TESLA/EmergencyResponseGuide-Tesla-Model_S-2021.pdf"
+  },
+  {
+    "make": "tesla",
+    "model": "MODEL S",
+    "url": "https://static.nhtsa.gov/erg/TESLA/RescueSheet-Tesla-Model_S-2021.pdf"
+  },
+  {
+    "make": "tesla",
+    "model": "MODEL X",
+    "url": "https://static.nhtsa.gov/erg/TESLA/EmergencyResponseGuide-Tesla-Model_X-2016.pdf"
+  },
+  {
+    "make": "tesla",
+    "model": "MODEL X",
+    "url": "https://static.nhtsa.gov/erg/TESLA/RescueSheet-Tesla-Model_X-2016.pdf"
+  },
+  {
+    "make": "tesla",
+    "model": "MODEL X",
+    "url": "https://static.nhtsa.gov/erg/TESLA,-INC./RescueSheet-Tesla-Model-X-2022-EN_BEV_1.pdf"
+  },
+  {
+    "make": "tesla",
+    "model": "MODEL Y",
+    "url": "https://static.nhtsa.gov/erg/TESLA/EmergencyResponseGuide-Tesla-Model_Y-2020-2024.pdf"
+  },
+  {
+    "make": "tesla",
+    "model": "MODEL Y",
+    "url": "https://static.nhtsa.gov/erg/TESLA/RescueSheet-Tesla-Model_Y-2020-2024.pdf"
+  },
+  {
+    "make": "tesla",
+    "model": "MODEL Y",
+    "url": "https://static.nhtsa.gov/erg/TESLA/EmergencyResponseGuide-Tesla-Model-Y-2025.pdf"
+  },
+  {
+    "make": "tesla",
+    "model": "MODEL Y",
+    "url": "https://static.nhtsa.gov/erg/TESLA/RescueSheet-Tesla-Model-Y-2025.pdf"
+  },
+  {
+    "make": "tesla",
+    "model": "ROADSTER (POWERTRAIN 2.0 VERSION)",
+    "url": "https://static.nhtsa.gov/erg/TESLA/EmergencyResponseGuide-Tesla-Roadster-2008.pdf"
+  },
+  {
+    "make": "tesla",
+    "model": "ROADSTER",
+    "url": "https://static.nhtsa.gov/erg/TESLA/RescueSheet-Tesla-Roadster-2008-2009.pdf"
+  },
+  {
+    "make": "tesla",
+    "model": "ROADSTER",
+    "url": "https://static.nhtsa.gov/erg/TESLA/RescueSheet-Tesla-Roadster-2010-2013.pdf"
+  },
+  {
+    "make": "tesla",
+    "model": "SEMI",
+    "url": "https://static.nhtsa.gov/erg/TESLA,-INC./RescueSheet-Tesla-Semitruck-2022-Present.pdf"
+  },
+  {
+    "make": "thomas_built_buses",
+    "model": "SAF-T-LINER JOULEY",
+    "url": "https://static.nhtsa.gov/erg/DAIMLER-TRUCK-NORTH-AMERICA/EmergencyResponseGuide-ThomasBuiltBuses-Jouley-2020.pdf"
+  },
+  {
+    "make": "thomas_built_buses",
+    "model": "SAF-T-LINER JOULEY",
+    "url": "https://static.nhtsa.gov/erg/DAIMLER-TRUCK-NORTH-AMERICA/RescueSheet-ThomasBuiltBuses-Jouley-2020.pdf"
+  },
+  {
+    "make": "tico",
+    "model": "PRO-SPOTTER",
+    "url": "https://static.nhtsa.gov/erg/TICO-MANUFACTURING/EmergencyResponseGuide-TICO-ProSpotterElectricVolvoPenta-2023_2025.pdf"
+  },
+  {
+    "make": "tico",
+    "model": "PRO-SPOTTER",
+    "url": "https://static.nhtsa.gov/erg/TICO-MANUFACTURING/EmergencyResponseGuide-TICO-Pro_eSpotter-2026.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "4RUNNER HV",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Toyota-4RunnerHV-2025.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "AVALON HYBRID",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/EmergencyResponseGuide-AvalonHEV-2015-2019.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "AVALON HYBRID",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-AvalonHEV-2016-2018.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "AVALON HYBRID",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-AvalonHEV-2019-2022.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "BZ",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Toyota-bZ-2026.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "BZ WOODLAND",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Toyota-bZWoodland-2026_BEV_1.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "BZ4X",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Toyota-BZ-2023-2025.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "C-HR BEV",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Toyota-C-HR-2026_BEV_1.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "CAMRY HYBRID",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Toyota-CamryHV-2018-2024.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "CAMRY HYBRID",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Toyota-CamryHV-2025.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "CAMRY HYBRID",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Toyota-CamryHV-2026.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "COROLLA CROSS HV",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Toyota-Corolla-Cross-HV-2023-2026.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "COROLLA HV",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Toyota-CorollaHV-2022-2024.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "COROLLA HV",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Toyota-CorollaHV-2026.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "COROLLA HYBRID",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Toyota-CorollaHV-2025.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "CROWN HYBRID",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Toyota-Crown-2023-2024.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "CROWN HYBRID",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Toyota-Crown-2025-2026.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "CROWN SIGNIA",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Toyota-CrownSignia-2025.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "GRAND HIGHLANDER HYBRID",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Toyota-GrandHighlanderHV-2024-2025.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "GRAND HIGHLANDER HYBRID",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Toyota-GrandHighlanderHV-2026.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "HIGHLANDER HYBRID",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Toyota-HighlanderHV-2020-2024.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "HIGHLANDER HYBRID",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Toyota-HighlanderHV-2025.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "LAND CRUISER",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Toyota-LandCruiser-2024-2025.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "LAND CRUISER",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Toyota-Land-Cruiser-2026.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "LEXUS- TOYOTA GENERAL",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/EmergencyResponseGuide_Lexus_Toyota_General.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "MIRAI",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Toyota-Mirai-2024-2025.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "PRIUS",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Toyota-Prius-2026.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "PRIUS",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/EmergencyResponseGuide_Toyota_Prius_PHV_2025.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "PRIUS PLUG-IN HYBRID",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Toyota-PriusPHV-2026.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "PRIUS PRIME",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Toyota-Prius-Prime-2023-2024.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "RAV4 HV",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Toyota-RAV4-Hybrid-2026_HEV_1.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "RAV4 HV",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/EmergencyResponseGuide_ToyotaRAV4_PHEV_2025.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "RAV4 PLUG-IN HYBRID",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Toyota-RAV4Prime-2021-2024.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "SEQUOIA HV",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Toyota-SequoiaHV-2023-2025.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "SEQUOIA HV",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Toyota-Sequoia-2026-Present.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "SIENNA HV",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Toyota-SiennaHV-2021-2024.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "SIENNA HV",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Toyota-SiennaHV-2025.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "TACOMA HV",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Toyota-TacomaHV-2024-2025.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "TUNDRA",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Toyota-TundraHV-2022-2025.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "TUNDRA",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Toyota-Tundra-HV-2026-Present.pdf"
+  },
+  {
+    "make": "van_con",
+    "model": "FORD E-450 MOTIVE ELECTRIC 20 PASSENGER",
+    "url": "https://static.nhtsa.gov/erg/VAN-CON/EmergencyResponseGuide-VanCon-Ford-2025_BEV_1.pdf"
+  },
+  {
+    "make": "van_con",
+    "model": "FORD E-450 MOTIVE ELECTRIC 20 PASSENGER",
+    "url": "https://static.nhtsa.gov/erg/VAN-CON/RescueSheet-VanCon-Ford-2025_BEV_1.pdf"
+  },
+  {
+    "make": "van_hool",
+    "model": "CX45E",
+    "url": "https://static.nhtsa.gov/erg/VAN-HOOL-N.V./EmergencyResponseGuide-VanHool-CX45E-2020-2025.pdf"
+  },
+  {
+    "make": "van_hool",
+    "model": "CX45E",
+    "url": "https://static.nhtsa.gov/erg/VAN-HOOL-N.V./RescueSheet-VanHool-CX45E_2020-2025.pdf"
+  },
+  {
+    "make": "van_hool",
+    "model": "TDX25E",
+    "url": "https://static.nhtsa.gov/erg/VAN-HOOL-N.V./EmergencyResponseGuide-VanHool-TDX25E-2020-2025.pdf"
+  },
+  {
+    "make": "van_hool",
+    "model": "TDX25E",
+    "url": "https://static.nhtsa.gov/erg/VAN-HOOL-N.V./RescueSheet-VanHool-TDX25E_2020-2025.pdf"
+  },
+  {
+    "make": "van",
+    "model": "VAN HOOL FUEL CELL BUS",
+    "url": "https://static.nhtsa.gov/erg/VAN-HOOL-BUS/EmergencyResponseGuide-VanHool-Bus-FC.pdf"
+  },
+  {
+    "make": "vinfast",
+    "model": "VF8 EV",
+    "url": "https://static.nhtsa.gov/erg/VINFAST/EmergencyResponseGuide-VINFAST-VF8-EV-SUV-23.pdf"
+  },
+  {
+    "make": "volcon",
+    "model": "VOLCON STAG 4-DOOR UTV",
+    "url": "https://static.nhtsa.gov/erg/VOLCON/EmergencyResponseGuide-VOLCON-STAG-960-101145-2023-2025.pdf"
+  },
+  {
+    "make": "volkswagen",
+    "model": "E-GOLF EV",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Volkswagen2025(e-golf).pdf"
+  },
+  {
+    "make": "volkswagen",
+    "model": "E-GOLF EV",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/RescueSheet-Volkswagen-e-Golf-2014V.2.pdf"
+  },
+  {
+    "make": "volkswagen",
+    "model": "ID.4",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Volkswagen2025(ID.4).pdf"
+  },
+  {
+    "make": "volkswagen",
+    "model": "ID.4",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/RescueSheet-Volkswagen-ID4-2025.pdf"
+  },
+  {
+    "make": "volkswagen",
+    "model": "ID.BUZZ AD 1.0",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Volkswagen2025(ID.BuzzAD).pdf"
+  },
+  {
+    "make": "volkswagen",
+    "model": "ID.BUZZ AD 1.0",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/RescueSheet-Volkswagen-IDBUZZ_AD_MPV-2021.pdf"
+  },
+  {
+    "make": "volkswagen",
+    "model": "ID.BUZZ",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Volkswagen2025(ID.Buzz).pdf"
+  },
+  {
+    "make": "volkswagen",
+    "model": "ID.BUZZ",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/RescueSheet-Volkswagen-IDBUZZDriver-2025.pdf"
+  },
+  {
+    "make": "volkswagen",
+    "model": "JETTA HYBRID",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Volkswagen2025(Jetta).pdf"
+  },
+  {
+    "make": "volkswagen",
+    "model": "JETTA HYBRID",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/RescueSheet-Volkswagen-Jetta-HEV-2011-2016.pdf"
+  },
+  {
+    "make": "volkswagen",
+    "model": "TOUAREG HYBRID",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Volkswagen2025(Touareg).pdf"
+  },
+  {
+    "make": "volkswagen",
+    "model": "TOUAREG HYBRID",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/RescueSheet-Volkswagen-Touareg_HEV-2011-2014.pdf"
+  },
+  {
+    "make": "volvo_cars",
+    "model": "EC40",
+    "url": "https://static.nhtsa.gov/erg/VOLVO-CARS/EmergencyResponseGuideVolvo_EC40__SUV_2025_5d_Electric_EN_ERG_BEV_1.pdf"
+  },
+  {
+    "make": "volvo_cars",
+    "model": "EC40",
+    "url": "https://static.nhtsa.gov/erg/VOLVO-CARS/RescueSheetVolvo_EC40__SUV_2025_5d_Electric_EN_BEV_1.pdf"
+  },
+  {
+    "make": "volvo_cars",
+    "model": "EX30",
+    "url": "https://static.nhtsa.gov/erg/VOLVO-CARS/EmergencyResponseGuideVolvo_EX30__SUV_2024_5d_Electric_EN_ERG_BEV_1.pdf"
+  },
+  {
+    "make": "volvo_cars",
+    "model": "EX30",
+    "url": "https://static.nhtsa.gov/erg/VOLVO-CARS/RescueSheetVolvo_EX30__SUV_2024_5d_Electric_EN_BEV_1.pdf"
+  },
+  {
+    "make": "volvo_cars",
+    "model": "EX40",
+    "url": "https://static.nhtsa.gov/erg/VOLVO-CARS/EmergencyResponseGuideVolvo_EX40__SUV_2025_5d_Electric_EN_ERG_BEV_1.pdf"
+  },
+  {
+    "make": "volvo_cars",
+    "model": "EX40",
+    "url": "https://static.nhtsa.gov/erg/VOLVO-CARS/RescueSheetVolvo_EX40__SUV_2025_5d_Electric_EN_BEV_1.pdf"
+  },
+  {
+    "make": "volvo_cars",
+    "model": "EX90",
+    "url": "https://static.nhtsa.gov/erg/VOLVO-CARS/EmergencyResponseGuideVolvo_EX90__SUV_2025_5d_Electric_EN_ERG_BEV_1.pdf"
+  },
+  {
+    "make": "volvo_cars",
+    "model": "EX90",
+    "url": "https://static.nhtsa.gov/erg/VOLVO-CARS/RescueSheetVolvo_EX90__SUV_2024_5d_Electric_EN_BEV_1.pdf"
+  },
+  {
+    "make": "volvo_cars",
+    "model": "S60",
+    "url": "https://static.nhtsa.gov/erg/VOLVO-CARS/RescueSheetVolvo_S60_MHEV_Sedan_2020_4d_GD_EN_HEV_1.pdf"
+  },
+  {
+    "make": "volvo_cars",
+    "model": "S60",
+    "url": "https://static.nhtsa.gov/erg/VOLVO-CARS/EmergencyResponseGuideVolvo_S60__Sedan_2018_5d_HybridElectric_EN_PHEV_1.pdf"
+  },
+  {
+    "make": "volvo_cars",
+    "model": "S90",
+    "url": "https://static.nhtsa.gov/erg/VOLVO-CARS/RescueSheetVolvo_S90_MHEV_Sedan_2020_4d_GD_EN_HEV_1.pdf"
+  },
+  {
+    "make": "volvo_cars",
+    "model": "S90",
+    "url": "https://static.nhtsa.gov/erg/VOLVO-CARS/EmergencyResponseGuideVolvo_S90__Sedan_2018_5d_HybridElectric_EN_PHEV_1.pdf"
+  },
+  {
+    "make": "volvo_cars",
+    "model": "V60",
+    "url": "https://static.nhtsa.gov/erg/VOLVO-CARS/RescueSheetVolvo_V60_MHEV_Station_2020_5d_GD_EN_HEV_1.pdf"
+  },
+  {
+    "make": "volvo_cars",
+    "model": "V60",
+    "url": "https://static.nhtsa.gov/erg/VOLVO-CARS/EmergencyResponseGuideVolvo_V60__Stationwagon_2018_5d_HybridElectric_EN_PHEV_1.pdf"
+  },
+  {
+    "make": "volvo_cars",
+    "model": "V90",
+    "url": "https://static.nhtsa.gov/erg/VOLVO-CARS/RescueSheetVolvo_V90_MHEV_Station_2020_5d_GD_EN_HEV_1.pdf"
+  },
+  {
+    "make": "volvo_cars",
+    "model": "V90",
+    "url": "https://static.nhtsa.gov/erg/VOLVO-CARS/EmergencyResponseGuideVolvo_V90__Stationwagon_2018_5d_HybridElectric_EN_PHEV_1.pdf"
+  },
+  {
+    "make": "volvo_cars",
+    "model": "XC40",
+    "url": "https://static.nhtsa.gov/erg/VOLVO-CARS/RescueSheetVolvo_XC40_MHEV_SUV_2020_5d_GD_EN.pdf"
+  },
+  {
+    "make": "volvo_cars",
+    "model": "XC40",
+    "url": "https://static.nhtsa.gov/erg/VOLVO-CARS/EmergencyResponseGuideVolvo_XC40__SUV_2018_5d_HybridElectric_EN_PHEV_1.pdf"
+  },
+  {
+    "make": "volvo_cars",
+    "model": "XC60",
+    "url": "https://static.nhtsa.gov/erg/VOLVO-CARS/RescueSheetVolvo_XC60_MHEV_SUV_2019_5d_GD_EN_HEV_1.pdf"
+  },
+  {
+    "make": "volvo_cars",
+    "model": "XC60",
+    "url": "https://static.nhtsa.gov/erg/VOLVO-CARS/EmergencyResponseGuideVolvo_XC60__SUV_2017_5d_HybridElectric_EN_PHEV_1.pdf"
+  },
+  {
+    "make": "volvo_cars",
+    "model": "XC90",
+    "url": "https://static.nhtsa.gov/erg/VOLVO-CARS/RescueSheetVolvo_XC90_MHEV_SUV_2019_5d_GD_EN_HEV_1.pdf"
+  },
+  {
+    "make": "volvo_cars",
+    "model": "XC90",
+    "url": "https://static.nhtsa.gov/erg/VOLVO-CARS/EmergencyResponseGuideVolvo_XC90__SUV_2015_5d_PluginHybridElectric_EN_PHEV_1.pdf"
+  },
+  {
+    "make": "volvo_trucks",
+    "model": "VNR ELECTRIC",
+    "url": "https://static.nhtsa.gov/erg/VOLVO-GROUP/EmergencyResponseGuide-Volvo-VNRe-2021-2026.pdf"
+  },
+  {
+    "make": "volvo_trucks",
+    "model": "VNR ELECTRIC",
+    "url": "https://static.nhtsa.gov/erg/VOLVO-GROUP/RescueSheet-Volvo-VNRe-2021-2026.pdf"
+  },
+  {
+    "make": "windrose",
+    "model": "R500",
+    "url": "https://static.nhtsa.gov/erg/WINDROSE-TECHNOLOGY/EmergencyResponseGuide_WINDROSE.pdf"
+  },
+  {
+    "make": "workhorse",
+    "model": "W-SERIES MODELS W4CC",
+    "url": "https://static.nhtsa.gov/erg/WORKHORSE/EmergencyResponseGuide-Workhorse-W4CC-W750.pdf"
+  },
+  {
+    "make": "workhorse",
+    "model": "W56 VEHICLE",
+    "url": "https://static.nhtsa.gov/erg/WORKHORSE/EmergencyResponseGuide-Workhorse-W56.pdf"
+  },
+  {
+    "make": "workhorse",
+    "model": "W88 E-GEN VEHICLE",
+    "url": "https://static.nhtsa.gov/erg/WORKHORSE/EmergencyResponseGuide-W88-EGEN-MSD.pdf"
+  },
+  {
+    "make": "zeek",
+    "model": "ZEEKR RT",
+    "url": "https://static.nhtsa.gov/erg/ZEEKR/EmergencyResponseGuide-Zeekr_RT_EV-2025plus_BEV_1.pdf"
+  },
+  {
+    "make": "zeek",
+    "model": "ZEEKR RT",
+    "url": "https://static.nhtsa.gov/erg/ZEEKR/RescueSheet-Zeekr_RT_EV-2025plus_BEV_1.pdf"
+  },
+  {
+    "make": "zoox",
+    "model": "ZOOX SEDAN",
+    "url": "https://static.nhtsa.gov/erg/ZOOX,-INC/EmergencyResponseGuide-Zoox-Zoox_Sedan-2026_BEV_1.pdf"
+  },
+  {
+    "make": "zoox",
+    "model": "ZOOX SEDAN",
+    "url": "https://static.nhtsa.gov/erg/ZOOX,-INC/RescueSheet-Zoox-Zoox_Sedan-2026_BEV_1.pdf"
+  }
+]
