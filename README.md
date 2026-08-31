@@ -1,7 +1,7 @@
 # EnRoute-EVdata
 
-Private copy of the EnRoute EV Rescue PDF library from BRIARPATCH-SERVER:
+Private library of EV / hybrid emergency response guides used by EnRoute.
 
-`/home/gray/MAP-Based/EV Info`
+Source copy of `/home/gray/MAP-Based/EV Info` on BRIARPATCH-SERVER.
 
-See **[FILE_NAMING.md](FILE_NAMING.md)** for the folder and filename rules used by the EnRoute index (`/api/ev-rescue/index`). Do not rename PDFs.
+See **[FILE_NAMING.md](FILE_NAMING.md)** before adding or renaming anything. Filenames and folder slugs are part of the EnRoute API contract.

@@ -1,64 +1,92 @@
-# EV Info file naming (locked for recall)
+# EV Info file naming (source of truth)
 
-Source of truth on the server: `/home/gray/MAP-Based/EV Info`  
-This repo is a copy of that library. The EnRoute app indexes it; do not invent a new layout.
+Copied from `gray@192.168.1.221:/home/gray/MAP-Based/EV Info`.
+The EnRoute app indexes this tree; keep names and layout stable.
 
 ## Layout
 
 ```
 EV Info/
-  {make}/                  manufacturer folder (flat; no model/year subfolders)
-    {original-pdf-name}.pdf
-  nhtsa-err/               bulk NHTSA ERR zip; ID filenames, not make/model
-  nhtsa/                   leftover NHTSA-site PDFs not yet filed by make
-  nfpa/                    NFPA reference cards (not vehicle ERGs)
-  _debug/                  scrape helpers (html/png/console script)
-  _nhtsa_erg_manifest.json  index source: [{make, model, url}, ...]
+  {make}/                          # manufacturer folder
+    {original-nhtsa-or-manual}.pdf
+  _nhtsa_erg_manifest.json         # make/model/url catalog used by the app index
   README_NHTSA_DOWNLOADS.md
+  nhtsa-err/                       # bulk NHTSA ERR zip; ID filenames, not make/model
+  nhtsa/                           # leftover/unmapped NHTSA PDFs
+  nfpa/                            # NFPA cards (not make/model)
+  _debug/                          # scrape helpers (html/png/js notes)
 ```
 
-`make` is a sanitized slug: lowercase, spaces → `_`. The downloader also replaces `<>:"/\|?*` with `_`. Display name in the app is that slug with underscores turned into spaces, then title-cased (`ford` → `Ford`, `alfa_romeo` → `Alfa Romeo`).
+PDFs are **flat inside each make folder**. There is no `model/` or `year/` subdirectory. Model and year are derived at index time.
 
-Folder names are **not** nested by model or year. PDFs sit directly in the make folder.
+## Manufacturer folders (`make`)
 
-## How the app finds a PDF
+- Lowercase slug of the NHTSA make string.
+- Spaces → underscores (`land_rover`, `volvo_cars`).
+- `sanitize()` also replaces `<>:"/\|?*` with `_`.
+- Hyphens are kept when they were in the source (`mercedes-benz_cars`, `rolls-royce`, `e-one`).
+- One folder contains `&`: `mcneilus_truck_&_manufacturing`.
+- Folder `id` is what `/api/ev-rescue/file?make=` uses.
+- Display name in the app: `make.replace("_", " ").title()` (so `alfa_romeo` → `Alfa Romeo`).
 
-1. Read `_nhtsa_erg_manifest.json`.
-2. For each entry, take `make` (slug), `model` (as given), and `filename` = last path segment of `url`.
-3. Keep the entry only if `EV Info/{make}/{filename}` exists.
-4. Year comes from the **filename**, not the folder:
-   - regex: `(20\d{2})(?:[-_](20\d{2}))?`
-   - `2013-2014` or `2013_2014` → `2013-2014`
-   - `2024` → `2024`
-   - no 20xx match → `—`
-5. Label:
-   - filename or URL contains `rescue` (any case) → **Rescue Sheet**
-   - otherwise → **Guide**
-6. API serve path: `/api/ev-rescue/file?make={make}&file={filename}`  
-   File on disk: `EV Info/{make}/{filename}`
+## PDF filenames
 
-The manifest is the model/year grouping. Scanning folders alone does **not** produce model names.
+Keep the **remote filename as-is**. The download script takes `Path(url).name` from the NHTSA URL. Do not rename to a local scheme.
 
-## Filename families (do not rename)
+Dominant patterns:
 
-| Family | Pattern | Example |
-|--------|---------|---------|
-| NHTSA rescue sheet | `RescueSheet-{Make}-{Model}-{years}_{propulsion}_1.pdf` | `RescueSheet-Kia-EV6-MY2026_BEV_1.pdf` |
-| NHTSA ERG | `EmergencyResponseGuide-{Make}-{Model}-{years}.pdf` (optional `_BEV_1` / `_PHEV_1` / `_HEV_1` / `_FCEV_1`) | `EmergencyResponseGuide-Lucid-Air-2022-2026.pdf` |
-| Older OEM (Ford/Tesla etc.) | `{year(s)}_{Model}_{...}_Emergency_Response_Guide_...pdf` or `...Rescue_Sheet...` | `2021-2025_Mustang_Mach-E_Rescue_Card_v0725.pdf` |
-| NHTSA bulk ERR zip | `nhtsa-err/DI{nn}-{nnn}-{nnnn}.pdf` | `DI07-044-4713.pdf` |
+| Pattern | Meaning |
+|---------|---------|
+| `EmergencyResponseGuide-...pdf` | Full ERG (“Guide” in UI) |
+| `RescueSheet-...pdf` | Quick rescue sheet (“Rescue Sheet” in UI) |
+| `{year}_{model}_...pdf` | Older manual/Tesla/Ford names |
+| `DI##-###-####.pdf` | Only inside `nhtsa-err/` (NHTSA document IDs) |
 
-Do not normalize, Title-Case, or replace hyphens/underscores. The filename **is** the lookup key.
+Powertrain suffixes often appear at the end: `_BEV_1`, `_PHEV_1`, `_HEV_1`, `_FCEV_1`.
 
-## Adding a new NHTSA guide
+Label rule in `https_server.py`: if `"rescue"` is in the filename or URL (case-insensitive) → **Rescue Sheet**, else **Guide**.
 
-1. Add `{make, model, url}` to `_nhtsa_erg_manifest.json`.
-2. Put the PDF at `EV Info/{make}/{url-basename}` using the exact name from the URL.
-3. Do not invent a friendlier filename.
+## Year extraction
 
-## Special cases
+From `https_server.py` `_ev_year_from_filename()`:
 
-- `mcneilus_truck_&_manufacturing` keeps the `&`.
-- Mercedes is split: `mercedes-benz_cars` vs `mercedes_benz_vans`.
-- `_debug` and `nhtsa-err` are not in the manufacturer index (they are not make folders with matching manifest entries).
-- Two files exceed GitHub’s 100 MB blob limit and must stay on Git LFS: `nhtsa-err/DI12-108-5895.pdf`, `nhtsa-err/DI11-045-5595.pdf`.
+```text
+regex: (20\d{2})(?:[-_](20\d{2}))?
+```
+
+- `2013-2014` or `2013_2014` → year range `2013-2014`
+- single `2024` → `2024`
+- no 20xx match → em dash `—`
+- first 20xx in the name wins (so `v0725` is ignored; `2014_Focus_EV_ERG_9-5-2013.pdf` becomes `2014`)
+
+Years 19xx are **not** captured.
+
+## Model names
+
+**Not** parsed from the filename. They come from `_nhtsa_erg_manifest.json`:
+
+```json
+{ "make": "acura", "model": "ILX", "url": "https://static.nhtsa.gov/erg/HONDA/EmergencyResponseGuide-Acura-ILX_HEV-2013-2014.pdf" }
+```
+
+Index join:
+
+1. `make` → folder `EV Info/{make}/`
+2. filename = last path segment of `url`
+3. file must exist on disk or the entry is skipped
+4. `model` string is used as-is for the UI tree
+
+Files that exist on disk but are **not** in the manifest (manual Tesla/Ford names, `nhtsa-err/`, `nfpa/`) **do not appear** in `/api/ev-rescue/index`.
+
+## API contract
+
+- Index: `GET /api/ev-rescue/index` → `{ manufacturers: [{ id, name, models: [{ name, years: [{ year, pdfs: [{ label, filename }] }] }] }] }`
+- File: `GET /api/ev-rescue/file?make={folder}&file={exact-filename}`
+- Path on disk: `EV Info/{make}/{filename}`
+
+## When adding files later
+
+1. Put the PDF in `EV Info/{make}/` using the **NHTSA URL basename** (or the existing manual name).
+2. If it should show in the app, add a `{ make, model, url }` row to `_nhtsa_erg_manifest.json` whose URL basename matches that file.
+3. Do not invent a new folder slug if a make folder already exists.
+4. Do not nest by year or model.
