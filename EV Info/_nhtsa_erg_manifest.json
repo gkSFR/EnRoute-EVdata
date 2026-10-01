@@ -37,6 +37,11 @@
   {
     "make": "audi",
     "model": "A3 SPORTBACK E-TRON",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Audi-A3e-tron-2026.pdf"
+  },
+  {
+    "make": "audi",
+    "model": "A3 SPORTBACK E-TRON",
     "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Audi2025A3phev.pdf"
   },
   {
@@ -47,12 +52,22 @@
   {
     "make": "audi",
     "model": "A6 ETRON",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Audi-A6etron-2026.pdf"
+  },
+  {
+    "make": "audi",
+    "model": "A6 ETRON",
     "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Audi2025A6.pdf"
   },
   {
     "make": "audi",
     "model": "A6 ETRON",
     "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/RescueSheet-Audi_A6-etron_2024.pdf"
+  },
+  {
+    "make": "audi",
+    "model": "A7",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Audi-A7PHEV-2026.pdf"
   },
   {
     "make": "audi",
@@ -72,12 +87,22 @@
   {
     "make": "audi",
     "model": "A8",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Audi-A8PHEV-2026.pdf"
+  },
+  {
+    "make": "audi",
+    "model": "A8",
     "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Audi2025A8PHEV.pdf"
   },
   {
     "make": "audi",
     "model": "A8",
     "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/RescueSheet-Audi-A8PHEV-2019.pdf"
+  },
+  {
+    "make": "audi",
+    "model": "E-TRON",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Audi-etron-2026.pdf"
   },
   {
     "make": "audi",
@@ -97,6 +122,11 @@
   {
     "make": "audi",
     "model": "E-TRON GT",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Audi-etronGT-2026.pdf"
+  },
+  {
+    "make": "audi",
+    "model": "E-TRON GT",
     "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Audi2025etronGT.pdf"
   },
   {
@@ -112,12 +142,27 @@
   {
     "make": "audi",
     "model": "Q4 E-TRON",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Audi-Q4-2026.pdf"
+  },
+  {
+    "make": "audi",
+    "model": "Q4 E-TRON",
     "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Audi2025etronQ4.pdf"
   },
   {
     "make": "audi",
     "model": "Q4 E-TRON",
     "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/RescueSheet-Audi_Q4_e-tron_SUV_2021_5d_Electric_EN.pdf"
+  },
+  {
+    "make": "audi",
+    "model": "Q5",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Audi-Q5HEV-2026.pdf"
+  },
+  {
+    "make": "audi",
+    "model": "Q5",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Audi-Q5PHEV-2026.pdf"
   },
   {
     "make": "audi",
@@ -152,12 +197,22 @@
   {
     "make": "audi",
     "model": "Q6 E-TRON",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Audi-Q6-2026.pdf"
+  },
+  {
+    "make": "audi",
+    "model": "Q6 E-TRON",
     "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Audi2025Q6.pdf"
   },
   {
     "make": "audi",
     "model": "Q6 E-TRON",
     "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/RescueSheet-Audi_Q6_e-tron_SUV_2024_5d_Electric_EN.pdf"
+  },
+  {
+    "make": "audi",
+    "model": "Q8 SQ8 E-TRON",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Audi-Q8-2026.pdf"
   },
   {
     "make": "audi",
@@ -173,6 +228,11 @@
     "make": "audi",
     "model": "Q8 SQ8 E-TRON",
     "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/RescueSheet-Audi-Q8-e-tron-SUV-2023-2025.pdf"
+  },
+  {
+    "make": "audi",
+    "model": "S6 ETRON",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Audi-S6etron-2026.pdf"
   },
   {
     "make": "audi",
@@ -1677,6 +1737,11 @@
   {
     "make": "honda",
     "model": "HONDA CIVIC HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HONDA-MOTOR-CO/EmergencyResponseGuide-Honda-Civic_Hybrid-2025-2027.pdf"
+  },
+  {
+    "make": "honda",
+    "model": "HONDA CIVIC HYBRID",
     "url": "https://static.nhtsa.gov/erg/HONDA-MOTOR-CO/RescueSheet-Honda-Civic_Hybrid-2025-2026.pdf"
   },
   {
@@ -1717,6 +1782,16 @@
   {
     "make": "hyundai",
     "model": "ELANTRA HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/EmergencyResponseGuide-Hyundai-ElantraHybrid-MY2024.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "ELANTRA HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/RescueSheet-Hyundai-ElantraHybrid-MY2024.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "ELANTRA HYBRID",
     "url": "https://static.nhtsa.gov/erg/HYUNDAI/EmergencyResponseGuide-Elantra_Hybrid-2024.pdf"
   },
   {
@@ -1733,6 +1808,11 @@
     "make": "hyundai",
     "model": "ELANTRA HYBRID",
     "url": "https://static.nhtsa.gov/erg/HYUNDAI/RescueSheet-Elantra_Hybrid-2024.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "IONIQ 5",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/RescueSheet-Hyundai-IONIQ5-MY2025-2026-2027.pdf"
   },
   {
     "make": "hyundai",
@@ -1877,6 +1957,11 @@
   {
     "make": "hyundai",
     "model": "SANTA FE HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/RescueSheet-Hyundai-SantaFeHybrid-MY2024-2027.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "SANTA FE HYBRID",
     "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/RescueSheet-Hyundai-SantaFe_Hybrid-2024.pdf"
   },
   {
@@ -1903,6 +1988,11 @@
     "make": "hyundai",
     "model": "SANTA FE PLUG-IN HYBRID",
     "url": "https://static.nhtsa.gov/erg/HYUNDAI/RescueSheet-Hyundai-SantaFePHEV-2021.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "SONATA HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/RescueSheet-Hyundai-SonataHybrid-MY2024-2027.pdf"
   },
   {
     "make": "hyundai",
@@ -1962,7 +2052,17 @@
   {
     "make": "hyundai",
     "model": "TUCSON HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/EmergencyResponseGuide-Hyundai-TucsonHybrid-MY2026.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "TUCSON HYBRID",
     "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/EmergencyResponseGuide-Hyundai-Tucson_Hybrid-2025.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "TUCSON HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/RescueSheet-Hyundai-TucsonHybrid-MY2026.pdf"
   },
   {
     "make": "hyundai",
@@ -1987,6 +2087,11 @@
   {
     "make": "hyundai",
     "model": "TUCSON PLUG-IN HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/RescueSheet-Hyundai-TucsonPlugInHybrid-MY2026.pdf"
+  },
+  {
+    "make": "hyundai",
+    "model": "TUCSON PLUG-IN HYBRID",
     "url": "https://static.nhtsa.gov/erg/HYUNDAI/EmergencyResponseGuide-Hyundai-Tucson-PHEV-2025.pdf"
   },
   {
@@ -2002,12 +2107,12 @@
   {
     "make": "hyundai",
     "model": "XCIENT FUEL CELL TRUCK",
-    "url": "https://static.nhtsa.gov/erg/HYUNDAI/EmergencyResponseGuide_HyundaiXCIENT_FuelCell_Truck_2023.pdf"
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/EmergencyResponseGuide_HyundaiXCIENT_FuelCell_Truck_2023.pdf"
   },
   {
     "make": "hyundai",
     "model": "XCIENT FUEL CELL TRUCK",
-    "url": "https://static.nhtsa.gov/erg/HYUNDAI/RescueSheet-Hyundai-XCIENT_Fuel_Cell_Truck-2023.pdf"
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/RescueSheet-Hyundai-XCIENT_Fuel_Cell_Truck-2023.pdf"
   },
   {
     "make": "hyzon",
@@ -2228,6 +2333,11 @@
     "make": "kia",
     "model": "NIRO EV",
     "url": "https://static.nhtsa.gov/erg/KIA-CORPORATION/EmergencyResponseGuide-Kia-DE_NIRO_2019-2022.pdf"
+  },
+  {
+    "make": "kia",
+    "model": "NIRO HYBRID",
+    "url": "https://static.nhtsa.gov/erg/HYUNDAI-MOTOR-COMPANY/EmergencyResponseGuide-Kia-NiroHEV-MY2027.pdf"
   },
   {
     "make": "kia",
@@ -2622,6 +2732,11 @@
   {
     "make": "lincoln",
     "model": "CORSAIR",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Lincoln-Corsair-2027_HEV_1.pdf"
+  },
+  {
+    "make": "lincoln",
+    "model": "CORSAIR",
     "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/EmergencyResponseGuide-Lincoln-CorsairPHEV-2020-2025.pdf"
   },
   {
@@ -2638,6 +2753,11 @@
     "make": "lincoln",
     "model": "CORSAIR",
     "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/RescueSheet-Lincoln-Corsair-2026.pdf"
+  },
+  {
+    "make": "lincoln",
+    "model": "CORSAIR",
+    "url": "https://static.nhtsa.gov/erg/FORD-MOTOR-COMPANY/RescueSheet-Lincoln-Corsair-2027_HEV_1.pdf"
   },
   {
     "make": "lincoln",
@@ -3041,6 +3161,16 @@
   },
   {
     "make": "mitsubishi",
+    "model": "ECLIPSE SPORTBACK",
+    "url": "https://static.nhtsa.gov/erg/MITSUBISHI-MOTORS/EmergencyResponseGuide-Mitsubishi-EclipseSportback-2027_BEV_1.pdf"
+  },
+  {
+    "make": "mitsubishi",
+    "model": "ECLIPSE SPORTBACK",
+    "url": "https://static.nhtsa.gov/erg/MITSUBISHI-MOTORS/RescueSheet-Mitsubishi-EclipseSportback-2027_BEV_1.pdf"
+  },
+  {
+    "make": "mitsubishi",
     "model": "I-MIEV",
     "url": "https://static.nhtsa.gov/erg/MITSUBISHI-MOTORS/EmergencyResponseGuide-Mitsubishi-i-MiEV-EV-2012-2017.pdf"
   },
@@ -3293,6 +3423,11 @@
     "make": "nissan",
     "model": "ARIYA",
     "url": "https://static.nhtsa.gov/erg/NISSAN-MOTOR-CORPORATION/EmergencyResponseGuide_NISSAN_ARIYA_2025.pdf"
+  },
+  {
+    "make": "nissan",
+    "model": "LEAF",
+    "url": "https://static.nhtsa.gov/erg/NISSAN-MOTOR-CORPORATION/EmergencyResponseGuide-Nissan-LEAF-2027_BEV_1.pdf"
   },
   {
     "make": "nissan",
@@ -4152,6 +4287,16 @@
   {
     "make": "tesla",
     "model": "SEMI",
+    "url": "https://static.nhtsa.gov/erg/TESLA,-INC./EmergencyResponseGuide-Tesla-Semi-2026-EN_BEV_1.pdf"
+  },
+  {
+    "make": "tesla",
+    "model": "SEMI",
+    "url": "https://static.nhtsa.gov/erg/TESLA,-INC./RescueSheet-Tesla-Semi-2026-EN_BEV_1.pdf"
+  },
+  {
+    "make": "tesla",
+    "model": "SEMI",
     "url": "https://static.nhtsa.gov/erg/TESLA,-INC./RescueSheet-Tesla-Semitruck-2022-Present.pdf"
   },
   {
@@ -4263,6 +4408,11 @@
     "make": "toyota",
     "model": "CROWN HYBRID",
     "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Toyota-Crown-2025-2026.pdf"
+  },
+  {
+    "make": "toyota",
+    "model": "CROWN HYBRID",
+    "url": "https://static.nhtsa.gov/erg/TOYOTA/RescueSheet-Toyota-Crown-2027_HEV_1.pdf"
   },
   {
     "make": "toyota",
@@ -4481,8 +4631,18 @@
   },
   {
     "make": "volkswagen",
+    "model": "ID.BUZZ",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/RescueSheet-Volkswagen-IDBUZZDriver-2025and2027.pdf"
+  },
+  {
+    "make": "volkswagen",
     "model": "ID.BUZZ AD 1.0",
     "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/EmergencyResponseGuide-Volkswagen2025(ID.BuzzAD).pdf"
+  },
+  {
+    "make": "volkswagen",
+    "model": "ID.BUZZ AD 1.0",
+    "url": "https://static.nhtsa.gov/erg/VOLKSWAGEN-GROUP/RescueSheet-Volkswagen-IDBUZZ_AD_MPV-2021-.pdf"
   },
   {
     "make": "volkswagen",
